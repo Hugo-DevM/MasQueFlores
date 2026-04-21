@@ -1,18 +1,6 @@
 {
   "products": [
     {
-      "id": "prod_1776740559436",
-      "name": "Ramo de 75 rosas",
-      "description": "Ramo de 75 rosas 3 mariposas una corona y un listón",
-      "price": 900,
-      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776740526/masqueflores_flowers/yhesirf7vmfn1e8896mu.jpg",
-      "category": "temporada",
-      "badge": "Exclusivo",
-      "featured": true,
-      "visible": true,
-      "createdAt": "2026-04-21T03:02:39.436Z"
-    },
-    {
       "id": "prod_1776740607317",
       "name": "Ramo de 24 rosas",
       "description": "Ramo de 24 rosas con gipsofilia",
