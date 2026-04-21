@@ -1,3 +1,16 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "prod_1776739509638",
+      "name": "Ramo en forma de corazón",
+      "description": "Ramo en forma de corazón con 50 rosas más un listón",
+      "price": 750,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776739190/masqueflores_flowers/gqjdejtc34efmxkqcqya.jpg",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": true,
+      "visible": true,
+      "createdAt": "2026-04-21T02:45:09.638Z"
+    }
+  ]
 }
