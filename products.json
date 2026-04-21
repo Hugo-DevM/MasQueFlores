@@ -51,19 +51,6 @@
       "featured": true,
       "visible": true,
       "createdAt": "2026-04-21T03:22:41.114Z"
-    },
-    {
-      "id": "prod_1776741810319",
-      "name": "Prueba de borrado",
-      "description": "Prueba de borrado de imagenes correctamente",
-      "price": 600,
-      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776741808/masqueflores/products/prod_1776741810319.jpg",
-      "imagePublicId": "masqueflores/products/prod_1776741810319",
-      "category": "siempre_disponible",
-      "badge": "",
-      "featured": false,
-      "visible": true,
-      "createdAt": "2026-04-21T03:23:54.961Z"
     }
   ]
 }
