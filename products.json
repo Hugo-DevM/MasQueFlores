@@ -1,18 +1,6 @@
 {
   "products": [
     {
-      "id": "prod_1776740481014",
-      "name": "Ramo de 75 rosas rojas",
-      "description": "Ramo de 75 rosas roja sencillo",
-      "price": 600,
-      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776740371/masqueflores_flowers/bohxbucqwfndhvojign3.jpg",
-      "category": "temporada",
-      "badge": "Popular",
-      "featured": true,
-      "visible": true,
-      "createdAt": "2026-04-21T03:01:21.014Z"
-    },
-    {
       "id": "prod_1776740559436",
       "name": "Ramo de 75 rosas",
       "description": "Ramo de 75 rosas 3 mariposas una corona y un listón",
