@@ -35,6 +35,18 @@
       "featured": true,
       "visible": true,
       "createdAt": "2026-04-21T03:02:39.436Z"
+    },
+    {
+      "id": "prod_1776740607317",
+      "name": "Ramo de 24 rosas",
+      "description": "Ramo de 24 rosas con gipsofilia",
+      "price": 350,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776740579/masqueflores_flowers/k7jqf81qfyqtyy1qpg5e.jpg",
+      "category": "sobre_pedido",
+      "badge": "Oferta",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-21T03:03:27.317Z"
     }
   ]
 }
