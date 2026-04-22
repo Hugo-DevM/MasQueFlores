@@ -12,6 +12,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-22T20:06:15.351Z"
+    },
+    {
+      "id": "prod_1776888389369",
+      "name": "Ramo buchon tutifruty",
+      "description": "75 rosas de colores rosita blanco y rojas con gipsofilia alrededor más un listón envuelto en papel negro",
+      "price": 2000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776888454/masqueflores/productos/siempre_disponible/prod_1776888389369/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776888389369/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-22T20:11:14.550Z"
     }
   ]
 }
