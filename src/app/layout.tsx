@@ -3,11 +3,41 @@ import "./globals.css";
 import { CartProvider } from "@/context/CartContext";
 
 export const metadata: Metadata = {
-  title: "Mas que Flores | Ramos Florales Puerto Vallarta",
+  metadataBase: new URL("https://masqueflores.mx"),
+  title: {
+    default: "Mas que Flores | Florería en Puerto Vallarta",
+    template: "%s | Mas que Flores",
+  },
   description:
-    "Arreglos florales únicos diseñados con amor en Puerto Vallarta. Regálale a esa persona especial un detalle hermoso. Envío a domicilio.",
+    "Arreglos florales únicos diseñados con amor en Puerto Vallarta. Ramos, bouquets y pedidos especiales. Atención de lunes a domingo.",
   keywords:
-    "florería, flores, ramos florales, arreglos florales, bouquet, rosas, Puerto Vallarta, Jalisco, flores a domicilio, Mas que Flores",
+    "florería, flores, ramos florales, arreglos florales, bouquet, rosas, Puerto Vallarta, Jalisco, flores a domicilio, Mas que Flores, florería Puerto Vallarta",
+  openGraph: {
+    type: "website",
+    locale: "es_MX",
+    url: "https://masqueflores.mx",
+    siteName: "Mas que Flores",
+    title: "Mas que Flores | Florería en Puerto Vallarta",
+    description:
+      "Arreglos florales únicos diseñados con amor en Puerto Vallarta. Envío a domicilio, atención de lunes a domingo.",
+    images: [
+      {
+        url: "/images/hero1.webp",
+        width: 1200,
+        height: 630,
+        alt: "Mas que Flores – Arreglos Florales Puerto Vallarta",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Mas que Flores | Florería en Puerto Vallarta",
+    description:
+      "Arreglos florales únicos diseñados con amor en Puerto Vallarta.",
+    images: ["/images/hero1.webp"],
+  },
+  robots: { index: true, follow: true },
+  alternates: { canonical: "https://masqueflores.mx" },
 };
 
 export default function RootLayout({
