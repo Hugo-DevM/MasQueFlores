@@ -64,6 +64,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-22T20:22:00.197Z"
+    },
+    {
+      "id": "prod_1776894316543",
+      "name": "Ramo buchon rojo",
+      "description": "Ramo de 75 rosas rojas con diamantes más un listón 3 mariposas una coronita 2500 envuelto en papel negro y con gipsofilia",
+      "price": 2500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776894368/masqueflores/productos/siempre_disponible/prod_1776894316543/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776894316543/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-22T21:52:33.259Z"
     }
   ]
 }
