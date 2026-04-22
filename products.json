@@ -1,3 +1,17 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "prod_1776816430786",
+      "name": "Ramo de girasoles",
+      "description": "Ramo de 20 girasoles",
+      "price": 1500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776816438/masqueflores/productos/prod_1776816430786/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/prod_1776816430786/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": true,
+      "visible": true,
+      "createdAt": "2026-04-22T00:07:44.333Z"
+    }
+  ]
 }
