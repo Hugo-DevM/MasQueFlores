@@ -51,6 +51,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-22T20:15:43.358Z"
+    },
+    {
+      "id": "prod_1776889153984",
+      "name": "Ramo de tulipanes",
+      "description": "Ramo de tulipanes envuelto con papel coreano",
+      "price": 1300,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776889202/masqueflores/productos/siempre_disponible/prod_1776889153984/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776889153984/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-22T20:22:00.197Z"
     }
   ]
 }
