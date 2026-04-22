@@ -12,6 +12,19 @@
       "featured": true,
       "visible": true,
       "createdAt": "2026-04-22T00:21:42.821Z"
+    },
+    {
+      "id": "prod_1776817312077",
+      "name": "Ramo de 75 rosas rojas",
+      "description": "Ramo de 75 rosas rojas",
+      "price": 1300,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776817319/masqueflores/productos/siempre_disponible/prod_1776817312077/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776817312077/imagen",
+      "category": "siempre_disponible",
+      "badge": "Exclusivo",
+      "featured": true,
+      "visible": true,
+      "createdAt": "2026-04-22T00:22:22.556Z"
     }
   ]
 }
