@@ -40,7 +40,7 @@ export default function Footer() {
                   <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
                 </svg>
               </a>
-              <a
+              {/* <a
                 href="#"
                 className="w-9 h-9 bg-gray-800 hover:bg-primary-500 rounded-full flex items-center justify-center transition-colors"
                 aria-label="Instagram"
@@ -71,7 +71,7 @@ export default function Footer() {
                   />
                   <circle cx="17.5" cy="6.5" r="1" />
                 </svg>
-              </a>
+              </a> */}
             </div>
           </div>
 
