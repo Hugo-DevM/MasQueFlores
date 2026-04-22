@@ -25,6 +25,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-22T20:11:14.550Z"
+    },
+    {
+      "id": "prod_1776888699893",
+      "name": "Ramo de 24 rosas",
+      "description": "24 rosas en color rosita fuerte con gipsofilia envuelto en papel blanco",
+      "price": 600,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776888720/masqueflores/productos/siempre_disponible/prod_1776888699893/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776888699893/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-22T20:13:32.435Z"
     }
   ]
 }
