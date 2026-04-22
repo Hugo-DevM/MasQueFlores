@@ -90,6 +90,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-22T22:31:33.575Z"
+    },
+    {
+      "id": "prod_1776900186176",
+      "name": "Ramo buchon",
+      "description": "Ramo buchon de 200 rosas rojas una corona y 5 mariposas envuelto en papel negro",
+      "price": 5000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776900223/masqueflores/productos/siempre_disponible/prod_1776900186176/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776900186176/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-22T23:25:18.772Z"
     }
   ]
 }
