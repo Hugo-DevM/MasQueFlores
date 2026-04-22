@@ -38,6 +38,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-22T20:13:32.435Z"
+    },
+    {
+      "id": "prod_1776888822737",
+      "name": "Ramo buchon",
+      "description": "75 rosas rojas envuelto en papel negro sin decoración",
+      "price": 1800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776888866/masqueflores/productos/siempre_disponible/prod_1776888822737/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776888822737/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-22T20:15:43.358Z"
     }
   ]
 }
