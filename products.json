@@ -116,6 +116,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-22T23:38:40.156Z"
+    },
+    {
+      "id": "prod_1776901147467",
+      "name": "Ramo de girasoles",
+      "description": "Ramo de 10 girasoles con gipsofilia y solidago envuelto en papel negro",
+      "price": 1000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776901178/masqueflores/productos/siempre_disponible/prod_1776901147467/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776901147467/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-22T23:40:54.891Z"
     }
   ]
 }
