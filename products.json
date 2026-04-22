@@ -129,6 +129,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-22T23:40:54.891Z"
+    },
+    {
+      "id": "prod_1776901272326",
+      "name": "Ramo buchon",
+      "description": "Ramo buchon de 50 rosas rojas con diamantes y con gipsofilia envuelto en papel blanco",
+      "price": 1300,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776901302/masqueflores/productos/siempre_disponible/prod_1776901272326/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776901272326/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-22T23:42:52.881Z"
     }
   ]
 }
