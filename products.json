@@ -1,17 +1,3 @@
 {
-  "products": [
-    {
-      "id": "prod_1776817158275",
-      "name": "prueba",
-      "description": "",
-      "price": 300,
-      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776817163/masqueflores/productos/siempre_disponible/prod_1776817158275/imagen.jpg",
-      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776817158275/imagen",
-      "category": "siempre_disponible",
-      "badge": "",
-      "featured": false,
-      "visible": true,
-      "createdAt": "2026-04-22T00:19:32.946Z"
-    }
-  ]
+  "products": []
 }
