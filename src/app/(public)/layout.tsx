@@ -7,7 +7,7 @@ const jsonLd = {
   "@type": "Florist",
   name: "Mas que Flores",
   url: "https://masqueflores.mx",
-  image: "https://masqueflores.mx/logo.webp",
+  image: "https://masqueflores.mx/logoLayout.webp",
   description:
     "Florería en Puerto Vallarta. Arreglos florales únicos, ramos y bouquets diseñados con amor. Pedidos especiales y envío a domicilio.",
   areaServed: {

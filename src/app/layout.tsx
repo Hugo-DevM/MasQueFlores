@@ -23,7 +23,7 @@ export const metadata: Metadata = {
       "Arreglos florales únicos diseñados con amor en Puerto Vallarta. Envío a domicilio, atención de lunes a domingo.",
     images: [
       {
-        url: "/images/hero1.webp",
+        url: "/Logo.jpg",
         width: 1200,
         height: 630,
         alt: "Mas que Flores – Arreglos Florales Puerto Vallarta",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     title: "Mas que Flores | Florería en Puerto Vallarta",
     description:
       "Arreglos florales únicos diseñados con amor en Puerto Vallarta.",
-    images: ["/images/hero1.webp"],
+    images: ["/Logo.jpg"],
   },
   robots: { index: true, follow: true },
   alternates: { canonical: "https://masqueflores.mx" },

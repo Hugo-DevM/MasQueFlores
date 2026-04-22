@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function Hero() {
   return (
-    <section className="bg-white pt-16 overflow-hidden">
+    <section aria-label="Florería Mas que Flores – Puerto Vallarta" className="bg-white pt-16 overflow-hidden">
       <div className="container mx-auto px-6 py-12">
         <div className="flex flex-col lg:flex-row gap-8 lg:h-[600px]">
           {/* ── Left column ── */}
@@ -77,8 +77,9 @@ export default function Hero() {
             <div className="col-start-2 row-start-1 relative rounded-2xl overflow-hidden h-full">
               <Image
                 src="/images/hero1.webp"
-                alt="Ramos de rosas"
+                alt="Ramos de rosas frescas – Mas que Flores Puerto Vallarta"
                 fill
+                priority
                 className="object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
@@ -96,8 +97,9 @@ export default function Hero() {
             <div className="col-start-1 row-start-1 row-span-2 relative rounded-2xl overflow-hidden h-[280px] lg:h-full">
               <Image
                 src="/images/hero2.webp"
-                alt="Arreglos florales"
+                alt="Arreglos florales para toda ocasión – florería en Puerto Vallarta"
                 fill
+                priority
                 className="object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/65 via-black/10 to-transparent" />
@@ -115,8 +117,9 @@ export default function Hero() {
             <div className="col-start-2 row-start-2 relative rounded-2xl overflow-hidden h-full">
               <Image
                 src="/images/hero3.webp"
-                alt="Cajas florales"
+                alt="Arreglos especiales y cajas florales – Mas que Flores"
                 fill
+                priority
                 className="object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />

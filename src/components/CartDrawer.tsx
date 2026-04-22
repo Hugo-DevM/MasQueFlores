@@ -10,13 +10,34 @@ export default function CartDrawer() {
   const waNumber = process.env.NEXT_PUBLIC_WA_NUMBER ?? "";
 
   function buildWhatsAppMsg() {
-    const header =
-      "Hola, me interesan los siguientes arreglos florales:\n\n";
-    const lines = items.map(
-      (i) =>
-        `• ${i.product.name} x${i.quantity} — $${(i.product.price * i.quantity).toLocaleString("es-MX")}`,
-    );
-    const footer = `\n\nTotal: $${total.toLocaleString("es-MX")}\n\n¿Podrían ayudarme? Gracias 🌹`;
+    const sep = "─────────────────────────────";
+    const folio = `#MQF-${Date.now().toString().slice(-5)}`;
+    const fecha = new Date().toLocaleDateString("es-MX", {
+      weekday: "long",
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    });
+
+    const header = `🌹 *Nuevo Pedido — Mas que Flores*\n${sep}\n\n*📋 RESUMEN DEL PEDIDO*\n`;
+
+    const lines = items.map((i, idx) => {
+      const subtotal = i.product.price * i.quantity;
+      return (
+        `\n*${idx + 1}.* ${i.product.name}\n` +
+        `   Cantidad: ${i.quantity}  •  Precio c/u: $${i.product.price.toLocaleString("es-MX")}\n` +
+        `   Subtotal: $${subtotal.toLocaleString("es-MX")}`
+      );
+    });
+
+    const footer =
+      `\n\n${sep}\n` +
+      `💰 *Total a pagar: $${total.toLocaleString("es-MX")} MXN*\n` +
+      `${sep}\n\n` +
+      `📅 *Fecha:* ${fecha}\n` +
+      `🔖 *Folio:* ${folio}\n\n` +
+      `Hola, me gustaría confirmar este pedido. ¿Podrían indicarme los pasos a seguir para el pago y la entrega? Muchas gracias 🙏`;
+
     return encodeURIComponent(header + lines.join("\n") + footer);
   }
 
