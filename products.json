@@ -51,6 +51,19 @@
       "featured": true,
       "visible": true,
       "createdAt": "2026-04-22T00:23:30.914Z"
+    },
+    {
+      "id": "prod_1776817412934",
+      "name": "Tulipanes",
+      "description": "Tulipanes",
+      "price": 3000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776817417/masqueflores/productos/siempre_disponible/prod_1776817412934/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776817412934/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": true,
+      "visible": true,
+      "createdAt": "2026-04-22T00:23:55.334Z"
     }
   ]
 }
