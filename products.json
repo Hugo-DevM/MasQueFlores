@@ -25,6 +25,19 @@
       "featured": true,
       "visible": true,
       "createdAt": "2026-04-22T00:22:22.556Z"
+    },
+    {
+      "id": "prod_1776817345634",
+      "name": "Ramo de rosas mariposas, una corona y un listón",
+      "description": "Ramo de 75 rosas 3 mariposas una corona y un listón",
+      "price": 1500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776817351/masqueflores/productos/siempre_disponible/prod_1776817345634/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776817345634/imagen",
+      "category": "temporada",
+      "badge": "",
+      "featured": true,
+      "visible": true,
+      "createdAt": "2026-04-22T00:23:03.898Z"
     }
   ]
 }
