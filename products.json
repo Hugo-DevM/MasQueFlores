@@ -1,19 +1,6 @@
 {
   "products": [
     {
-      "id": "prod_1776741628781",
-      "name": "Ramo en forma de corazón con 50",
-      "description": "Ramo en forma de corazón con 50 rosas más un listón",
-      "price": 750,
-      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776741626/masqueflores/products/prod_1776741628781.jpg",
-      "imagePublicId": "masqueflores/products/prod_1776741628781",
-      "category": "siempre_disponible",
-      "badge": "Nuevo",
-      "featured": true,
-      "visible": true,
-      "createdAt": "2026-04-21T03:20:58.158Z"
-    },
-    {
       "id": "prod_1776741662163",
       "name": "Ramo de 75 rosas rojas",
       "description": "Ramo de 75 rosas rojas",
