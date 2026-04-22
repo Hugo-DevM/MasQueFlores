@@ -1,3 +1,69 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "prod_1776817248097",
+      "name": "Ramo en forma de corazón",
+      "description": "Ramo en forma de corazón con 50 rosas más un listón",
+      "price": 1500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776817259/masqueflores/productos/siempre_disponible/prod_1776817248097/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776817248097/imagen",
+      "category": "siempre_disponible",
+      "badge": "Popular",
+      "featured": true,
+      "visible": true,
+      "createdAt": "2026-04-22T00:21:42.821Z"
+    },
+    {
+      "id": "prod_1776817312077",
+      "name": "Ramo de 75 rosas rojas",
+      "description": "Ramo de 75 rosas rojas",
+      "price": 1300,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776817319/masqueflores/productos/siempre_disponible/prod_1776817312077/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776817312077/imagen",
+      "category": "siempre_disponible",
+      "badge": "Exclusivo",
+      "featured": true,
+      "visible": true,
+      "createdAt": "2026-04-22T00:22:22.556Z"
+    },
+    {
+      "id": "prod_1776817345634",
+      "name": "Ramo de rosas mariposas, una corona y un listón",
+      "description": "Ramo de 75 rosas 3 mariposas una corona y un listón",
+      "price": 1500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776817351/masqueflores/productos/siempre_disponible/prod_1776817345634/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776817345634/imagen",
+      "category": "temporada",
+      "badge": "",
+      "featured": true,
+      "visible": true,
+      "createdAt": "2026-04-22T00:23:03.898Z"
+    },
+    {
+      "id": "prod_1776817386218",
+      "name": "Ramo de 24 rosas con gipsofilia",
+      "description": "Ramo de 24 rosas con gipsofilia",
+      "price": 950,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776817390/masqueflores/productos/siempre_disponible/prod_1776817386218/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776817386218/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": true,
+      "visible": true,
+      "createdAt": "2026-04-22T00:23:30.914Z"
+    },
+    {
+      "id": "prod_1776817412934",
+      "name": "Tulipanes",
+      "description": "Tulipanes",
+      "price": 3000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776817417/masqueflores/productos/siempre_disponible/prod_1776817412934/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776817412934/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": true,
+      "visible": true,
+      "createdAt": "2026-04-22T00:23:55.334Z"
+    }
+  ]
 }
