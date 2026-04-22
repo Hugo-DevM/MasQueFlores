@@ -26,11 +26,17 @@ export default function Footer() {
             {/* Social */}
             <div className="flex gap-3 pt-2">
               <a
-                href="#"
+                href="https://www.facebook.com/profile.php?id=61579882343479"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="w-9 h-9 bg-gray-800 hover:bg-primary-500 rounded-full flex items-center justify-center transition-colors"
                 aria-label="Facebook"
               >
-                <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                <svg
+                  className="w-4 h-4"
+                  fill="currentColor"
+                  viewBox="0 0 24 24"
+                >
                   <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
                 </svg>
               </a>
@@ -39,9 +45,30 @@ export default function Footer() {
                 className="w-9 h-9 bg-gray-800 hover:bg-primary-500 rounded-full flex items-center justify-center transition-colors"
                 aria-label="Instagram"
               >
-                <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-                  <rect x="2" y="2" width="20" height="20" rx="5" ry="5" fill="none" stroke="currentColor" strokeWidth="2"/>
-                  <circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" strokeWidth="2"/>
+                <svg
+                  className="w-4 h-4"
+                  fill="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <rect
+                    x="2"
+                    y="2"
+                    width="20"
+                    height="20"
+                    rx="5"
+                    ry="5"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                  />
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="4"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                  />
                   <circle cx="17.5" cy="6.5" r="1" />
                 </svg>
               </a>
@@ -55,7 +82,10 @@ export default function Footer() {
             </h3>
             <ul className="space-y-2">
               {[
-                { href: "/tienda?cat=siempre_disponible", label: "Siempre Disponibles 🌹" },
+                {
+                  href: "/tienda?cat=siempre_disponible",
+                  label: "Siempre Disponibles 🌹",
+                },
                 { href: "/tienda?cat=temporada", label: "Por Temporada 🌸" },
                 { href: "/tienda?cat=sobre_pedido", label: "Sobre Pedido ✨" },
                 { href: "/tienda", label: "Ver todo el catálogo" },
@@ -111,7 +141,10 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="border-t border-charcoal-800">
         <div className="container mx-auto px-4 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-gray-500">
-          <p>© {year} Ramos Florales Mas que Flores. Todos los derechos reservados.</p>
+          <p>
+            © {year} Ramos Florales Mas que Flores. Todos los derechos
+            reservados.
+          </p>
           <Link
             href="/dashboard/login"
             className="hover:text-primary-400 transition-colors"
