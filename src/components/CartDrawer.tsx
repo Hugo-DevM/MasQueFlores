@@ -43,7 +43,13 @@ export default function CartDrawer() {
 
   function handleCheckout() {
     const msg = buildWhatsAppMsg();
-    window.open(`https://wa.me/${waNumber}?text=${msg}`, "_blank");
+    const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile/i.test(
+      navigator.userAgent,
+    );
+    const url = isMobile
+      ? `https://wa.me/${waNumber}?text=${msg}`
+      : `https://web.whatsapp.com/send?phone=${waNumber}&text=${msg}`;
+    window.open(url, "_blank");
   }
 
   return (
