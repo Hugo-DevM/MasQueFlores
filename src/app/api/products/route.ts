@@ -1,6 +1,13 @@
 import { NextRequest, NextResponse } from "next/server";
+import { v2 as cloudinary } from "cloudinary";
 import { getProductsFromGitHub, saveProductsToGitHub } from "@/lib/github";
 import { Product } from "@/types";
+
+cloudinary.config({
+  cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+  api_key:    process.env.CLOUDINARY_API_KEY,
+  api_secret: process.env.CLOUDINARY_API_SECRET,
+});
 
 export async function GET() {
   try {
@@ -60,6 +67,16 @@ export async function DELETE(request: NextRequest) {
   try {
     const { id } = await request.json();
     const { products, sha } = await getProductsFromGitHub();
+
+    const product = products.find((p) => p.id === id);
+
+    // Eliminar imagen de Cloudinary si tiene public_id guardado
+    if (product?.imagePublicId) {
+      await cloudinary.uploader.destroy(product.imagePublicId).catch((err) =>
+        console.warn("Cloudinary delete warning:", err)
+      );
+    }
+
     const updated = products.filter((p) => p.id !== id);
     await saveProductsToGitHub(updated, sha);
     return NextResponse.json({ success: true });

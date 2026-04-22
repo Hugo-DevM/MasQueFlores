@@ -1,29 +1,21 @@
 "use client";
 
-import { useEffect, useState, Suspense } from "react";
+import { useState, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import ProductCard from "@/components/ProductCard";
 import CategoryFilter from "@/components/CategoryFilter";
-import { Product, Category, CATEGORY_LABELS } from "@/types";
+import { useProducts } from "@/hooks/useProducts";
+import { Category, CATEGORY_LABELS } from "@/types";
 
 function TiendaContent() {
   const searchParams = useSearchParams();
   const catParam = searchParams.get("cat") as Category | null;
 
-  const [products, setProducts] = useState<Product[]>([]);
-  const [loading, setLoading] = useState(true);
+  const { products, loading } = useProducts();
   const [selectedCat, setSelectedCat] = useState<Category | "all">(
     catParam ?? "all",
   );
   const [search, setSearch] = useState("");
-
-  useEffect(() => {
-    fetch("/api/products")
-      .then((r) => r.json())
-      .then((d) => setProducts(d.products ?? []))
-      .catch(() => setProducts([]))
-      .finally(() => setLoading(false));
-  }, []);
 
   const visible = products.filter((p) => p.visible);
 

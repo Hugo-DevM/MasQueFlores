@@ -1,10 +1,10 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import Hero from "@/components/Hero";
 import ProductCard from "@/components/ProductCard";
+import { useProducts } from "@/hooks/useProducts";
 import {
   Product,
   Category,
@@ -14,16 +14,7 @@ import {
 } from "@/types";
 
 export default function HomePage() {
-  const [products, setProducts] = useState<Product[]>([]);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    fetch("/api/products")
-      .then((r) => r.json())
-      .then((d) => setProducts(d.products ?? []))
-      .catch(() => setProducts([]))
-      .finally(() => setLoading(false));
-  }, []);
+  const { products, loading } = useProducts();
 
   const visible = products.filter((p) => p.visible);
   const featured = visible.filter((p) => p.featured).slice(0, 4);
@@ -42,10 +33,7 @@ export default function HomePage() {
             <span className="text-gold-500 font-semibold text-sm uppercase tracking-widest">
               Explora
             </span>
-            <h2
-              className="font-display text-4xl font-bold text-gray-900 mt-2"
-              
-            >
+            <h2 className="font-display text-4xl font-bold text-gray-900 mt-2">
               Nuestras Categorías
             </h2>
             <p className="text-gray-500 mt-3 max-w-md mx-auto">
@@ -98,10 +86,7 @@ export default function HomePage() {
               <span className="text-gold-500 font-semibold text-sm uppercase tracking-widest">
                 Especiales
               </span>
-              <h2
-                className="font-display text-4xl font-bold text-gray-900 mt-2"
-                
-              >
+              <h2 className="font-display text-4xl font-bold text-gray-900 mt-2">
                 Arreglos Destacados
               </h2>
               <p className="text-gray-500 mt-3">
@@ -119,9 +104,14 @@ export default function HomePage() {
                 ))}
               </div>
             ) : (
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-5">
+              <div className="flex flex-wrap justify-center gap-5">
                 {featured.map((p) => (
-                  <ProductCard key={p.id} product={p} />
+                  <div
+                    key={p.id}
+                    className="w-[calc(50%-10px)] md:w-[calc(25%-15px)] min-w-[200px] max-w-[280px]"
+                  >
+                    <ProductCard product={p} />
+                  </div>
                 ))}
               </div>
             )}
@@ -157,8 +147,7 @@ export default function HomePage() {
               Nuestra historia
             </span>
             <h2 className="font-display text-4xl md:text-5xl font-bold text-white leading-tight max-w-2xl">
-              Creamos{" "}
-              <span className="text-gold-400 italic">Momentos</span>{" "}
+              Creamos <span className="text-gold-400 italic">Momentos</span>{" "}
               Inolvidables
             </h2>
             <p className="text-white/75 mt-5 max-w-xl text-base leading-relaxed">
@@ -180,15 +169,31 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-3">
             {[
-              { icon: "🌹", label: "Flores Frescas", sub: "Seleccionadas diariamente para garantizar calidad" },
-              { icon: "🚚", label: "Entrega Rápida", sub: "Cubrimos Puerto Vallarta y zona metropolitana" },
-              { icon: "💝", label: "Hecho con Amor", sub: "Diseños únicos pensados para cada ocasión" },
+              {
+                icon: "🌹",
+                label: "Flores Frescas",
+                sub: "Seleccionadas diariamente para garantizar calidad",
+              },
+              {
+                icon: "🚚",
+                label: "Entrega Rápida",
+                sub: "Cubrimos Puerto Vallarta y zona metropolitana",
+              },
+              {
+                icon: "💝",
+                label: "Hecho con Amor",
+                sub: "Diseños únicos pensados para cada ocasión",
+              },
             ].map((f) => (
               <div key={f.label} className="flex items-start gap-4 px-8 py-10">
                 <span className="text-3xl shrink-0">{f.icon}</span>
                 <div>
-                  <div className="font-bold text-gray-900 text-base">{f.label}</div>
-                  <div className="text-sm text-gray-500 mt-1 leading-relaxed">{f.sub}</div>
+                  <div className="font-bold text-gray-900 text-base">
+                    {f.label}
+                  </div>
+                  <div className="text-sm text-gray-500 mt-1 leading-relaxed">
+                    {f.sub}
+                  </div>
                 </div>
               </div>
             ))}
@@ -203,10 +208,7 @@ export default function HomePage() {
             <span className="text-gold-500 font-semibold text-sm uppercase tracking-widest">
               Catálogo
             </span>
-            <h2
-              className="font-display text-4xl font-bold text-gray-900 mt-2"
-              
-            >
+            <h2 className="font-display text-4xl font-bold text-gray-900 mt-2">
               Todos los Arreglos
             </h2>
           </div>
@@ -226,20 +228,25 @@ export default function HomePage() {
               <p>Próximamente tendremos arreglos disponibles</p>
             </div>
           ) : (
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
-              {visible.slice(0, 8).map((p) => (
-                <ProductCard key={p.id} product={p} />
+            <div className="flex flex-wrap justify-center gap-5">
+              {visible.slice(0, 4).map((p) => (
+                <div
+                  key={p.id}
+                  className="w-[calc(50%-10px)] md:w-[calc(25%-15px)] min-w-[200px] max-w-[280px]"
+                >
+                  <ProductCard product={p} />
+                </div>
               ))}
             </div>
           )}
 
-          {visible.length > 8 && (
+          {!loading && visible.length > 0 && (
             <div className="text-center mt-10">
               <Link
                 href="/tienda"
                 className="border-2 border-primary-500 text-primary-500 hover:bg-primary-50 px-8 py-3.5 rounded-full font-semibold transition-colors"
               >
-                Ver todos los arreglos →
+                Ver todos los arreglos
               </Link>
             </div>
           )}

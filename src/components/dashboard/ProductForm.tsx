@@ -22,7 +22,10 @@ export default function ProductForm({ product, onClose, onSaved }: Props) {
   const [badge, setBadge] = useState(product?.badge ?? "");
   const [featured, setFeatured] = useState(product?.featured ?? false);
   const [visible, setVisible] = useState(product?.visible ?? true);
-  const [imageUrl, setImageUrl] = useState(product?.image ?? "");
+  const [imageUrl, setImageUrl]         = useState(product?.image ?? "");
+  const [imagePublicId, setImagePublicId] = useState(product?.imagePublicId ?? "");
+  // ID del producto — fijo desde el inicio para usarlo en el nombre de la imagen
+  const [productId] = useState(product?.id ?? `prod_${Date.now()}`);
 
   const [uploading, setUploading] = useState(false);
   const [saving, setSaving] = useState(false);
@@ -37,10 +40,13 @@ export default function ProductForm({ product, onClose, onSaved }: Props) {
     try {
       const fd = new FormData();
       fd.append("file", file);
+      fd.append("productId", productId);
+      fd.append("category", category);
       const res = await fetch("/api/upload", { method: "POST", body: fd });
       if (!res.ok) throw new Error("Error al subir imagen");
       const data = await res.json();
-      setImageUrl(data.secure_url ?? data.url ?? "");
+      setImageUrl(data.url ?? "");
+      setImagePublicId(data.publicId ?? "");
     } catch (err) {
       setError(err instanceof Error ? err.message : "Error desconocido");
     } finally {
@@ -54,15 +60,20 @@ export default function ProductForm({ product, onClose, onSaved }: Props) {
       setError("El nombre y el precio son requeridos.");
       return;
     }
+    if (parseFloat(price) <= 0) {
+      setError("El precio debe ser mayor a $0.");
+      return;
+    }
     setSaving(true);
     setError("");
 
     const payload = {
-      id: product?.id ?? `prod_${Date.now()}`,
+      id: productId,
       name: name.trim(),
       description: description.trim(),
       price: parseFloat(price),
       image: imageUrl,
+      imagePublicId,
       category,
       badge: badge.trim(),
       featured,
@@ -109,7 +120,7 @@ export default function ProductForm({ product, onClose, onSaved }: Props) {
               Imagen
             </label>
             <div
-              className="relative border-2 border-dashed border-gray-200 rounded-xl h-40 flex items-center justify-center cursor-pointer hover:border-primary-300 transition-colors bg-primary-50/30 overflow-hidden"
+              className="relative border-2 border-dashed border-gray-200 rounded-xl h-72 flex items-center justify-center cursor-pointer hover:border-primary-300 transition-colors bg-primary-50/30 overflow-hidden"
               onClick={() => fileRef.current?.click()}
             >
               {imageUrl ? (
@@ -117,7 +128,7 @@ export default function ProductForm({ product, onClose, onSaved }: Props) {
                   src={imageUrl}
                   alt="Preview"
                   fill
-                  className="object-cover rounded-xl"
+                  className="object-contain rounded-xl"
                 />
               ) : (
                 <div className="text-center text-gray-400">
@@ -181,12 +192,20 @@ export default function ProductForm({ product, onClose, onSaved }: Props) {
                 type="number"
                 value={price}
                 onChange={(e) => setPrice(e.target.value)}
+                onWheel={(e) => e.currentTarget.blur()}
                 placeholder="0"
-                min="0"
+                min="1"
                 step="0.01"
                 required
-                className="w-full px-4 py-2.5 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-primary-300 text-sm"
+                className={`w-full px-4 py-2.5 rounded-xl border focus:outline-none focus:ring-2 focus:ring-primary-300 text-sm ${
+                  price && parseFloat(price) <= 0
+                    ? "border-red-400 bg-red-50"
+                    : "border-gray-200"
+                }`}
               />
+              {price && parseFloat(price) <= 0 && (
+                <p className="text-red-500 text-xs mt-1">El precio debe ser mayor a $0</p>
+              )}
             </div>
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1.5">
@@ -210,16 +229,29 @@ export default function ProductForm({ product, onClose, onSaved }: Props) {
 
           {/* Badge */}
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1.5">
-              Etiqueta (badge)
+            <label className="block text-sm font-medium text-gray-700 mb-2">
+              Etiqueta <span className="text-gray-400 font-normal">(se muestra sobre la imagen)</span>
             </label>
-            <input
-              type="text"
-              value={badge}
-              onChange={(e) => setBadge(e.target.value)}
-              placeholder="Ej: Nuevo, Oferta, Exclusivo…"
-              className="w-full px-4 py-2.5 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-primary-300 text-sm"
-            />
+            <div className="flex flex-wrap gap-2">
+              {[
+                { value: "",          label: "Sin etiqueta", cls: "bg-gray-200 text-gray-600 border-gray-300" },
+                { value: "Nuevo",     label: "Nuevo",        cls: "bg-blue-600 text-white border-blue-700" },
+                { value: "Oferta",    label: "Oferta",       cls: "bg-orange-500 text-white border-orange-600" },
+                { value: "Exclusivo", label: "Exclusivo",    cls: "bg-purple-700 text-white border-purple-800" },
+                { value: "Popular",   label: "Popular",      cls: "bg-primary-500 text-white border-primary-600" },
+              ].map((opt) => (
+                <button
+                  key={opt.value}
+                  type="button"
+                  onClick={() => setBadge(opt.value)}
+                  className={`px-3 py-1.5 rounded-full text-xs font-semibold border-2 transition-all ${opt.cls} ${
+                    badge === opt.value ? "ring-2 ring-offset-2 ring-gray-500 scale-105" : "hover:scale-105"
+                  }`}
+                >
+                  {opt.label}
+                </button>
+              ))}
+            </div>
           </div>
 
           {/* Toggles */}

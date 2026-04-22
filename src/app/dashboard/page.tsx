@@ -88,13 +88,13 @@ export default function DashboardPage() {
             <Link
               href="/"
               target="_blank"
-              className="text-sm text-gray-500 hover:text-primary-500 transition-colors"
+              className="text-sm font-medium bg-primary-500 text-white hover:bg-primary-600 px-4 py-2 rounded-full transition-colors"
             >
-              Ver tienda ↗
+              Ver tienda
             </Link>
             <button
               onClick={handleLogout}
-              className="text-sm text-red-500 hover:text-red-700 transition-colors"
+              className="text-sm font-medium bg-charcoal-900 text-white hover:bg-charcoal-800 px-4 py-2 rounded-full transition-colors"
             >
               Salir
             </button>
@@ -122,28 +122,11 @@ export default function DashboardPage() {
           ))}
         </div>
 
-        {/* Actions */}
-        <div className="flex items-center justify-between mb-6">
-          <h2 className="text-xl font-bold text-gray-900">
-            Gestiona tu catálogo de florería
-          </h2>
-          <button
-            onClick={handleNewProduct}
-            className="bg-primary-500 hover:bg-primary-600 text-white px-5 py-2.5 rounded-xl font-medium text-sm transition-colors flex items-center gap-2"
-          >
-            <span>+</span>
-            <span>Nuevo arreglo</span>
-          </button>
-        </div>
-
         {/* Product list */}
         {loading ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {Array.from({ length: 6 }).map((_, i) => (
-              <div
-                key={i}
-                className="bg-white rounded-2xl h-48 animate-pulse"
-              />
+          <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 space-y-3">
+            {Array.from({ length: 5 }).map((_, i) => (
+              <div key={i} className="h-14 bg-gray-100 rounded-xl animate-pulse" />
             ))}
           </div>
         ) : (
@@ -151,6 +134,7 @@ export default function DashboardPage() {
             products={products}
             onEdit={handleEdit}
             onRefresh={loadProducts}
+            onAdd={handleNewProduct}
           />
         )}
       </div>
