@@ -532,6 +532,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T07:11:07.420Z"
+    },
+    {
+      "id": "prod_1776928348551",
+      "name": "12 de rosas",
+      "description": "Buscas algo sencillo 12 rosas rojas envueltas con papel azul y gipsofilia",
+      "price": 400,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776928413/masqueflores/productos/siempre_disponible/prod_1776928348551/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776928348551/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T07:14:56.133Z"
     }
   ]
 }
