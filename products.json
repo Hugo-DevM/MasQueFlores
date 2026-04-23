@@ -571,6 +571,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T07:24:09.398Z"
+    },
+    {
+      "id": "prod_1776929195087",
+      "name": "Ramo Rosita",
+      "description": "30 rosas 15 blancas y 15 rositas con gipsofilia envuelto en forma coreana",
+      "price": 800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776929350/masqueflores/productos/siempre_disponible/prod_1776929195087/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776929195087/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T07:31:19.065Z"
     }
   ]
 }
