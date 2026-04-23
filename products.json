@@ -389,6 +389,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:37:30.875Z"
+    },
+    {
+      "id": "prod_1776919103837",
+      "name": "Rojo y amarillo",
+      "description": "El ramo lleva 10 girasoles y 15 rosas rojas con nube alrededor envuelto en papel rosita",
+      "price": 1400,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776919311/masqueflores/productos/siempre_disponible/prod_1776919103837/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776919103837/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:44:52.441Z"
     }
   ]
 }
