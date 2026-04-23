@@ -220,6 +220,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T00:26:10.355Z"
+    },
+    {
+      "id": "prod_1776903987546",
+      "name": "Ramos de billetes",
+      "description": "Ramos de 15 rosas rojas con billetes",
+      "price": 850,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776904080/masqueflores/productos/siempre_disponible/prod_1776903987546/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776903987546/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T00:29:09.774Z"
     }
   ]
 }
