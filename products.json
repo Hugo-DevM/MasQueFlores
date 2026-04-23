@@ -805,6 +805,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T17:24:23.759Z"
+    },
+    {
+      "id": "prod_1776965091407",
+      "name": "Ramo rojo",
+      "description": "Ramo con 50 rosas más un listón con gipsofilia alrededor envuelto en papel negro",
+      "price": 1300,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776965301/masqueflores/productos/siempre_disponible/prod_1776965091407/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776965091407/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T17:32:12.133Z"
     }
   ]
 }
