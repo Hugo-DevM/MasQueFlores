@@ -480,6 +480,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T05:07:05.057Z"
+    },
+    {
+      "id": "prod_1776921053470",
+      "name": "Ramo tutifruty",
+      "description": "El ramo lleva 100 rosas entre colores rositas y blancas con gipsofilia alrededor envuelto en papel de color dorado con rosita",
+      "price": 2500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776921106/masqueflores/productos/siempre_disponible/prod_1776921053470/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776921053470/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T05:14:56.167Z"
     }
   ]
 }
