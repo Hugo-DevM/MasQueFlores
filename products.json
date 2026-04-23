@@ -259,6 +259,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T01:25:01.537Z"
+    },
+    {
+      "id": "prod_1776907900538",
+      "name": "Corazón mágico",
+      "description": "Es un corazón hecho con 14 girasoles y una docena de rosas y follaje verde",
+      "price": 2300,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776908008/masqueflores/productos/siempre_disponible/prod_1776907900538/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776907900538/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T01:36:46.830Z"
     }
   ]
 }
