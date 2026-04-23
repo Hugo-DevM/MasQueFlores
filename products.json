@@ -727,6 +727,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T15:25:17.265Z"
+    },
+    {
+      "id": "prod_1776957955611",
+      "name": "Ramo de feliz cumpleaños",
+      "description": "Ramo de 24 rosas rojas más un listón con jipsofilia alrededor",
+      "price": 700,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776958019/masqueflores/productos/siempre_disponible/prod_1776957955611/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776957955611/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T15:28:10.966Z"
     }
   ]
 }
