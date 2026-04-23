@@ -233,6 +233,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T00:29:09.774Z"
+    },
+    {
+      "id": "prod_1776906621157",
+      "name": "Ramo de Gerveras",
+      "description": "Ramo de 24 gerveras 12 rositas bajitos y 12 rosa fuerte con follaje y gipsofilia envuelto con papel rosita",
+      "price": 1350,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776906704/masqueflores/productos/siempre_disponible/prod_1776906621157/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776906621157/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T01:18:50.544Z"
     }
   ]
 }
