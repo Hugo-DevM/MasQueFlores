@@ -545,6 +545,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T07:14:56.133Z"
+    },
+    {
+      "id": "prod_1776928518969",
+      "name": "3 girasoles y 12 rosas",
+      "description": "Ramo de 12 rosas y 3 girasoles con follaje verde envuelto con papel blanco",
+      "price": 750,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776928618/masqueflores/productos/siempre_disponible/prod_1776928518969/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776928518969/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T07:18:46.277Z"
     }
   ]
 }
