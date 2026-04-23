@@ -792,6 +792,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T16:02:04.113Z"
+    },
+    {
+      "id": "prod_1776964917537",
+      "name": "Listones personalizados",
+      "description": "También contamos con listones personalizados para tus ramos florales cualquier frase que sele ofresca",
+      "price": 100,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776964929/masqueflores/productos/siempre_disponible/prod_1776964917537/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776964917537/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T17:24:23.759Z"
     }
   ]
 }
