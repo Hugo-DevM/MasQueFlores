@@ -636,6 +636,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T07:55:07.532Z"
+    },
+    {
+      "id": "prod_1776930927510",
+      "name": "Ramo pastel",
+      "description": "30 rosas 15 blancas y 15 rositas con gipsofilia envuelto en papel blanco",
+      "price": 800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776931023/masqueflores/productos/siempre_disponible/prod_1776930927510/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776930927510/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T07:58:44.562Z"
     }
   ]
 }
