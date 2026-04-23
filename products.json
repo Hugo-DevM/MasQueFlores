@@ -662,6 +662,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T14:48:19.129Z"
+    },
+    {
+      "id": "prod_1776955711390",
+      "name": "Ramo girasol",
+      "description": "El ramo lleva 5 girasoles con gipsofilia envuelto en forma coreana",
+      "price": 500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776955969/masqueflores/productos/siempre_disponible/prod_1776955711390/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776955711390/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T14:55:47.329Z"
     }
   ]
 }
