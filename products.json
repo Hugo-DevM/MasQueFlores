@@ -337,6 +337,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:14:08.525Z"
+    },
+    {
+      "id": "prod_1776917692795",
+      "name": "Ramo pink",
+      "description": "Ramo de 5 gerveras 10 rosas y 8 claveles con gipsofilia y dólar todo en tonos pasteles con la envoltura coreana",
+      "price": 850,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776917809/masqueflores/productos/siempre_disponible/prod_1776917692795/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776917692795/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:21:28.928Z"
     }
   ]
 }
