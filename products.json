@@ -623,6 +623,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T07:49:40.038Z"
+    },
+    {
+      "id": "prod_1776930635146",
+      "name": "Corazón blanco",
+      "description": "Ramo de 125 rosas 100 rosas rositas y 25 rosas blancas más un listón",
+      "price": 3200,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776930784/masqueflores/productos/siempre_disponible/prod_1776930635146/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776930635146/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T07:55:07.532Z"
     }
   ]
 }
