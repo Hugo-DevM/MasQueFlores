@@ -194,6 +194,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T00:14:07.332Z"
+    },
+    {
+      "id": "prod_1776903263258",
+      "name": "Ramo luminoso",
+      "description": "Ramo luminoso hecho con 75 rojas bañadas con brillos una corona pequeña 3 mariposas y una tira de luces envuelto en papel rosita",
+      "price": 2500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776903394/masqueflores/productos/siempre_disponible/prod_1776903263258/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776903263258/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T00:20:58.826Z"
     }
   ]
 }
