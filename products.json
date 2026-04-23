@@ -506,6 +506,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T06:56:40.125Z"
+    },
+    {
+      "id": "prod_1776927478318",
+      "name": "Ramo tutifruty",
+      "description": "Ramo de 100 rosas combinados con colores rositas pasteles con gipsofilia alrededor",
+      "price": 2500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776927545/masqueflores/productos/siempre_disponible/prod_1776927478318/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776927478318/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T07:00:38.614Z"
     }
   ]
 }
