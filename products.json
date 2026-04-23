@@ -402,6 +402,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:44:52.441Z"
+    },
+    {
+      "id": "prod_1776919505094",
+      "name": "Rosita",
+      "description": "Ramo de 20 rosas 10 blancas y 10 rositas con un toque gipsofilia y dólar envuelto en papel rosita",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776919568/masqueflores/productos/siempre_disponible/prod_1776919505094/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776919505094/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:47:43.671Z"
     }
   ]
 }
