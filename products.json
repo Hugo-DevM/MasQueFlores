@@ -324,6 +324,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:10:36.682Z"
+    },
+    {
+      "id": "prod_1776917446949",
+      "name": "Feliz cumpleaños",
+      "description": "Ramo de 100 rosas con gipsofilia envuelto en papel negro más un listón de “FELIZ CUMPLEAÑOS”",
+      "price": 2600,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776917527/masqueflores/productos/siempre_disponible/prod_1776917446949/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776917446949/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:14:08.525Z"
     }
   ]
 }
