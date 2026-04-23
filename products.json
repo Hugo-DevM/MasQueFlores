@@ -779,6 +779,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T15:56:31.530Z"
+    },
+    {
+      "id": "prod_1776959797989",
+      "name": "Ramo rous",
+      "description": "Ramo de 12 rosas rositas y 2 varitas de Acapulco con gipsofilia y follaje",
+      "price": 850,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776959913/masqueflores/productos/siempre_disponible/prod_1776959797989/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776959797989/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T16:02:04.113Z"
     }
   ]
 }
