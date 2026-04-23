@@ -363,6 +363,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:26:24.128Z"
+    },
+    {
+      "id": "prod_1776918466756",
+      "name": "Mariposas",
+      "description": "El ramo de mariposas lleva 24 rosas rojas 1 corona y 4 mariposas con gipsofilia alrededor y envuelto con papel negro",
+      "price": 800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776918508/masqueflores/productos/siempre_disponible/prod_1776918466756/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776918466756/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:31:12.410Z"
     }
   ]
 }
