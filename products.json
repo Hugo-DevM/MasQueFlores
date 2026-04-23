@@ -415,6 +415,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:47:43.671Z"
+    },
+    {
+      "id": "prod_1776919674194",
+      "name": "Rojo y blanco",
+      "description": "El ramo lleva 10 tulipanes y 24 rosas rojas con follaje verde",
+      "price": 1800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776919928/masqueflores/productos/siempre_disponible/prod_1776919674194/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776919674194/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:53:22.070Z"
     }
   ]
 }
