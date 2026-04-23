@@ -649,6 +649,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T07:58:44.562Z"
+    },
+    {
+      "id": "prod_1776955281431",
+      "name": "50",
+      "description": "Ramo de 50 rosas 10 tulipanes y 24 chocolates envueltos en papel rosita",
+      "price": 2700,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776955409/masqueflores/productos/siempre_disponible/prod_1776955281431/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776955281431/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T14:48:19.129Z"
     }
   ]
 }
