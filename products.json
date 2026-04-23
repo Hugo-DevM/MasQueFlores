@@ -350,6 +350,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:21:28.928Z"
+    },
+    {
+      "id": "prod_1776918108022",
+      "name": "Jardín de tulipanes",
+      "description": "El ramo lleva 100 rosas y 30 tulipanes de colores envuelto en papel rosita",
+      "price": 5000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776918209/masqueflores/productos/siempre_disponible/prod_1776918108022/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776918108022/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:26:24.128Z"
     }
   ]
 }
