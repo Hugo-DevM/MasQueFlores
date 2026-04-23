@@ -441,6 +441,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:55:56.524Z"
+    },
+    {
+      "id": "prod_1776920188805",
+      "name": "Corazón de 50",
+      "description": "El ramo está hecho con billetes más los chocolates y las rosas",
+      "price": 1000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776920231/masqueflores/productos/siempre_disponible/prod_1776920188805/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776920188805/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:59:12.712Z"
     }
   ]
 }
