@@ -766,6 +766,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T15:37:15.900Z"
+    },
+    {
+      "id": "prod_1776959564358",
+      "name": "Gerveras",
+      "description": "Ramo de 10 gerveras y una Lilis en medio con gipsofilia y follaje verde envuelto en papel dorado",
+      "price": 600,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776959677/masqueflores/productos/siempre_disponible/prod_1776959564358/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776959564358/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T15:56:31.530Z"
     }
   ]
 }
