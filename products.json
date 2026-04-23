@@ -246,6 +246,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T01:18:50.544Z"
+    },
+    {
+      "id": "prod_1776907203464",
+      "name": "Ramo Pinkis",
+      "description": "Ramo con 30 rosas 15 rositas y 15 blancas más 4 gerveras decorado con gipsofilia envuelto en papel rosita",
+      "price": 1000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776907371/masqueflores/productos/siempre_disponible/prod_1776907203464/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776907203464/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T01:25:01.537Z"
     }
   ]
 }
