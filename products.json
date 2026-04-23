@@ -818,6 +818,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T17:32:12.133Z"
+    },
+    {
+      "id": "prod_1776967121000",
+      "name": "Ramo de girasoles",
+      "description": "Ramo de 10 girasoles y 15 rosas rojas en medio",
+      "price": 1400,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776967650/masqueflores/productos/siempre_disponible/prod_1776967121000/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776967121000/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T18:09:23.111Z"
     }
   ]
 }
