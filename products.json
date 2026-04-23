@@ -207,6 +207,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T00:20:58.826Z"
+    },
+    {
+      "id": "prod_1776903768578",
+      "name": "Ramo de gerveras",
+      "description": "Ramo de 12 gerveras de colores rositas con follaje verde y poco de gipsofilia envuelto con papel blanco",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776903877/masqueflores/productos/siempre_disponible/prod_1776903768578/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776903768578/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T00:26:10.355Z"
     }
   ]
 }
