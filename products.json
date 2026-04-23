@@ -519,6 +519,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T07:00:38.614Z"
+    },
+    {
+      "id": "prod_1776927665777",
+      "name": "Ramo Rosita pastel",
+      "description": "El ramo lleva 4 gerveras 2 blancas y 2 rositas pasteles y 2 docenas de flores rositas pasteles envuelto en forma coreana",
+      "price": 850,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776928101/masqueflores/productos/siempre_disponible/prod_1776927665777/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776927665777/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T07:11:07.420Z"
     }
   ]
 }
