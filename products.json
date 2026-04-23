@@ -558,6 +558,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T07:18:46.277Z"
+    },
+    {
+      "id": "prod_1776928746127",
+      "name": "Ramo rositas y blancas",
+      "description": "24 rosas 12 blancas y 12 rositas con gipsofilia y dólar envuelto en papel coreano",
+      "price": 750,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776928966/masqueflores/productos/siempre_disponible/prod_1776928746127/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776928746127/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T07:24:09.398Z"
     }
   ]
 }
