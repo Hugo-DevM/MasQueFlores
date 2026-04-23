@@ -376,6 +376,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:31:12.410Z"
+    },
+    {
+      "id": "prod_1776918696091",
+      "name": "Ramo de cumpleaños",
+      "description": "12 rosas rojas con gipsofilia envuelto en papel café",
+      "price": 550,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776918887/masqueflores/productos/siempre_disponible/prod_1776918696091/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776918696091/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:37:30.875Z"
     }
   ]
 }
