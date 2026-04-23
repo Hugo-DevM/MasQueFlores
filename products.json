@@ -688,6 +688,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T15:00:32.119Z"
+    },
+    {
+      "id": "prod_1776956498363",
+      "name": "Luna amarilla",
+      "description": "Ramo de 50 rosas y un girasol más 2 mariposas con gipsofilia envuelto en papel rosita",
+      "price": 1350,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776957218/masqueflores/productos/siempre_disponible/prod_1776956498363/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776956498363/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T15:15:55.541Z"
     }
   ]
 }
