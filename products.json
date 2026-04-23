@@ -428,6 +428,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:53:22.070Z"
+    },
+    {
+      "id": "prod_1776920005221",
+      "name": "Blanco y Rosita",
+      "description": "El ramo lleva 50 rosas 25 rosas blancas y 25 rosas rosas con una inicial en medio",
+      "price": 1400,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776920035/masqueflores/productos/siempre_disponible/prod_1776920005221/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776920005221/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:55:56.524Z"
     }
   ]
 }
