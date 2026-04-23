@@ -181,6 +181,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T00:00:52.437Z"
+    },
+    {
+      "id": "prod_1776902463480",
+      "name": "Ramo brillante",
+      "description": "Ramo de rosas rojas con brillo y poquito follaje verde envuelto en papel rosita",
+      "price": 750,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776903078/masqueflores/productos/siempre_disponible/prod_1776902463480/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776902463480/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T00:14:07.332Z"
     }
   ]
 }
