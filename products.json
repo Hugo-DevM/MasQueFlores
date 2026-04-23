@@ -311,6 +311,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:07:31.945Z"
+    },
+    {
+      "id": "prod_1776917265990",
+      "name": "Nube blanca",
+      "description": "Ramo de 24 rosas blancas con gipsofilia envuelto con papel blanco",
+      "price": 600,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776917378/masqueflores/productos/siempre_disponible/prod_1776917265990/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776917265990/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:10:36.682Z"
     }
   ]
 }
