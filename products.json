@@ -831,6 +831,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T18:09:23.111Z"
+    },
+    {
+      "id": "prod_1776968260034",
+      "name": "Mariposas",
+      "description": "Mariposas de colores para tus Ramos florales",
+      "price": 10,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776968265/masqueflores/productos/siempre_disponible/prod_1776968260034/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776968260034/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T18:18:52.824Z"
     }
   ]
 }
