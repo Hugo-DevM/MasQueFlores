@@ -298,6 +298,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T04:03:06.278Z"
+    },
+    {
+      "id": "prod_1776917002728",
+      "name": "Ramo romántico",
+      "description": "El ramo lleva 50 rosas rojas y en medio la letra de la persona especial alrededor lleva exofilia envuelto en papel negro",
+      "price": 1350,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776917061/masqueflores/productos/siempre_disponible/prod_1776917002728/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776917002728/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:07:31.945Z"
     }
   ]
 }
