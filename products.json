@@ -701,6 +701,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T15:15:55.541Z"
+    },
+    {
+      "id": "prod_1776957363775",
+      "name": "Ramo mini",
+      "description": "24 rosas más una coronita con gipsofilia alrededor envuelto en papel negro",
+      "price": 900,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776957602/masqueflores/productos/siempre_disponible/prod_1776957363775/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776957363775/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T15:21:07.431Z"
     }
   ]
 }
