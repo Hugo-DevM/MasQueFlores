@@ -740,6 +740,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T15:28:10.966Z"
+    },
+    {
+      "id": "prod_1776958138259",
+      "name": "Ramo luna roja",
+      "description": "Ramo de 30 rosas con gipsofilia alrededor envuelto con papel negro",
+      "price": 800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776958171/masqueflores/productos/siempre_disponible/prod_1776958138259/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776958138259/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T15:31:28.996Z"
     }
   ]
 }
