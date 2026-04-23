@@ -714,6 +714,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T15:21:07.431Z"
+    },
+    {
+      "id": "prod_1776957677666",
+      "name": "Ramo elegante",
+      "description": "Ramo con 50 rosas más diamantes 3 mariposas y una corona con gipsofilia alrededor",
+      "price": 1700,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776957823/masqueflores/productos/siempre_disponible/prod_1776957677666/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776957677666/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T15:25:17.265Z"
     }
   ]
 }
