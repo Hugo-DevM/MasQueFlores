@@ -753,6 +753,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T15:31:28.996Z"
+    },
+    {
+      "id": "prod_1776958322235",
+      "name": "Rosas y mariposas",
+      "description": "Ramo de 50 rosas más 1 listón y 4 mariposas con jipsofilia alrededor envuelto con papel negro",
+      "price": 1400,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776958434/masqueflores/productos/siempre_disponible/prod_1776958322235/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776958322235/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T15:37:15.900Z"
     }
   ]
 }
