@@ -285,6 +285,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T03:34:32.194Z"
+    },
+    {
+      "id": "prod_1776916849914",
+      "name": "Ramo mini de gerveras",
+      "description": "Ramo con 5 gerveras gipsofilia en vuelto tipo coreano",
+      "price": 450,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1776916898/masqueflores/productos/siempre_disponible/prod_1776916849914/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1776916849914/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-23T04:03:06.278Z"
     }
   ]
 }
