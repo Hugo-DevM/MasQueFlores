@@ -857,6 +857,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-24T14:32:01.021Z"
+    },
+    {
+      "id": "prod_1777051171271",
+      "name": "Mini ramo",
+      "description": "Ramo de 24 rosas rojas con gipsofilia alrededor envuelto en papel negro",
+      "price": 600,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1777051323/masqueflores/productos/siempre_disponible/prod_1777051171271/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1777051171271/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-24T17:23:03.405Z"
     }
   ]
 }
