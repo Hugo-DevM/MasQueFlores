@@ -870,6 +870,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-24T17:23:03.405Z"
+    },
+    {
+      "id": "prod_1777058202724",
+      "name": "Ramo de rosas",
+      "description": "Ramo de 30 rosas rojas envuelto con gipsofilia envuelto en papel rosita",
+      "price": 900,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1777058283/masqueflores/productos/siempre_disponible/prod_1777058202724/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1777058202724/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-24T19:19:26.315Z"
     }
   ]
 }
