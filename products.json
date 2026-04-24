@@ -844,6 +844,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-23T18:18:52.824Z"
+    },
+    {
+      "id": "prod_1777040971430",
+      "name": "Ramo grande de gerveras",
+      "description": "Ramo de 100 gerveras coloridas con gipsofilia alrededor",
+      "price": 5000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1777041043/masqueflores/productos/siempre_disponible/prod_1777040971430/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1777040971430/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-24T14:32:01.021Z"
     }
   ]
 }
