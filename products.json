@@ -896,6 +896,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-25T00:37:01.495Z"
+    },
+    {
+      "id": "prod_1777085566303",
+      "name": "Corazón de gervera",
+      "description": "Ramo en forma de corazón de gerveras rojas envuelto en papel blanco",
+      "price": 2300,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1777085949/masqueflores/productos/siempre_disponible/prod_1777085566303/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1777085566303/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-25T03:01:05.685Z"
     }
   ]
 }
