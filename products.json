@@ -883,6 +883,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-24T19:19:26.315Z"
+    },
+    {
+      "id": "prod_1777077170339",
+      "name": "Corazón encantado",
+      "description": "Arreglo en corazón con 20 rosas rojas más flores blancas",
+      "price": 1400,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1777077258/masqueflores/productos/siempre_disponible/prod_1777077170339/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1777077170339/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-25T00:37:01.495Z"
     }
   ]
 }
