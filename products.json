@@ -909,6 +909,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-25T03:01:05.685Z"
+    },
+    {
+      "id": "prod_1777086075858",
+      "name": "Rojos y amarillos",
+      "description": "Ramo de 50 rosas rojas más 3 girasoles con gipsofilia alrededor envuelto en papel negro más una coronita",
+      "price": 1700,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1777086483/masqueflores/productos/siempre_disponible/prod_1777086075858/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1777086075858/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-04-25T03:12:05.929Z"
     }
   ]
 }
