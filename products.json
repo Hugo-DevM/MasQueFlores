@@ -922,6 +922,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-04-25T03:12:05.929Z"
+    },
+    {
+      "id": "prod_1782850438887",
+      "name": "Corazón rojo",
+      "description": "Un arreglo con 60 rosas rojas en forma de corazón",
+      "price": 1800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1782850467/masqueflores/productos/siempre_disponible/prod_1782850438887/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1782850438887/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-06-30T20:15:15.137Z"
     }
   ]
 }
