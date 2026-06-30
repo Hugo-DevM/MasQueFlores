@@ -935,6 +935,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-06-30T20:15:15.137Z"
+    },
+    {
+      "id": "prod_1782850597294",
+      "name": "Ramo alegría",
+      "description": "Ramo con 30 rosas rojas envuelto con papel rosita y con gipsofilia alrededor",
+      "price": 900,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1782850641/masqueflores/productos/siempre_disponible/prod_1782850597294/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1782850597294/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-06-30T20:18:54.151Z"
     }
   ]
 }
