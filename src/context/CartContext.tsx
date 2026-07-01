@@ -31,7 +31,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
   const [hydrated, setHydrated] = useState(false);
 
   useEffect(() => {
-    const saved = localStorage.getItem("masqueflores_cart");
+    const saved = localStorage.getItem("floreriatulipan_cart");
     if (saved) {
       try {
         setItems(JSON.parse(saved));
@@ -44,7 +44,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     if (hydrated) {
-      localStorage.setItem("masqueflores_cart", JSON.stringify(items));
+      localStorage.setItem("floreriatulipan_cart", JSON.stringify(items));
     }
   }, [items, hydrated]);
 

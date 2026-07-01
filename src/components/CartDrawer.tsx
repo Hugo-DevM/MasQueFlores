@@ -11,7 +11,7 @@ export default function CartDrawer() {
 
   function buildWhatsAppMsg() {
     const sep = "─────────────────────────────";
-    const folio = `#MQF-${Date.now().toString().slice(-5)}`;
+    const folio = `#FT-${Date.now().toString().slice(-5)}`;
     const fecha = new Date().toLocaleDateString("es-MX", {
       weekday: "long",
       year: "numeric",
@@ -19,7 +19,7 @@ export default function CartDrawer() {
       day: "numeric",
     });
 
-    const header = `🌹 *Nuevo Pedido — Mas que Flores*\n${sep}\n\n*📋 RESUMEN DEL PEDIDO*\n`;
+    const header = `🌷 *Nuevo Pedido — Florería Tulipán*\n${sep}\n\n*📋 RESUMEN DEL PEDIDO*\n`;
 
     const lines = items.map((i, idx) => {
       const subtotal = i.product.price * i.quantity;

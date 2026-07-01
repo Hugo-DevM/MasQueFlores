@@ -11,8 +11,8 @@ export default function Footer() {
           <div className="lg:col-span-2 space-y-4">
             <Link href="/" className="inline-block">
               <span className="font-display text-3xl font-semibold">
-                <span className="text-white">Mas que</span>
-                <span className="text-primary-400"> Flores</span>
+                <span className="text-white">Florería</span>
+                <span className="text-primary-400"> Tulipán</span>
               </span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed max-w-xs">
@@ -142,7 +142,7 @@ export default function Footer() {
       <div className="border-t border-charcoal-800">
         <div className="container mx-auto px-4 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-gray-500">
           <p>
-            © {year} Ramos Florales Mas que Flores. Todos los derechos
+            © {year} Florería Tulipán. Todos los derechos
             reservados.
           </p>
           <Link

@@ -134,7 +134,7 @@ export default function HomePage() {
         <div className="relative h-[520px] overflow-hidden">
           <Image
             src="/images/about.webp"
-            alt="Arreglos florales Mas que Flores"
+            alt="Arreglos florales Florería Tulipán"
             fill
             className="object-cover"
           />
@@ -261,7 +261,7 @@ export default function HomePage() {
         </div>
         <div className="container mx-auto px-4 text-center relative z-10">
           <span className="text-gold-400 font-semibold text-sm uppercase tracking-widest mb-4 block">
-            Mas que Flores
+            Florería Tulipán
           </span>
           <h2 className="font-display text-4xl font-bold text-white mb-4">
             ¿Lista para sorprender?

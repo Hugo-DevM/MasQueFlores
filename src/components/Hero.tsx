@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function Hero() {
   return (
-    <section aria-label="Florería Mas que Flores – Puerto Vallarta" className="bg-white pt-16 overflow-hidden">
+    <section aria-label="Florería Tulipán – Puerto Vallarta" className="bg-white pt-16 overflow-hidden">
       <div className="container mx-auto px-6 py-12">
         <div className="flex flex-col lg:flex-row gap-8 lg:h-[600px]">
           {/* ── Left column ── */}
@@ -77,7 +77,7 @@ export default function Hero() {
             <div className="col-start-2 row-start-1 relative rounded-2xl overflow-hidden h-full">
               <Image
                 src="/images/hero1.webp"
-                alt="Ramos de rosas frescas – Mas que Flores Puerto Vallarta"
+                alt="Ramos de rosas frescas – Florería Tulipán Puerto Vallarta"
                 fill
                 priority
                 className="object-cover"
@@ -117,7 +117,7 @@ export default function Hero() {
             <div className="col-start-2 row-start-2 relative rounded-2xl overflow-hidden h-full">
               <Image
                 src="/images/hero3.webp"
-                alt="Arreglos especiales y cajas florales – Mas que Flores"
+                alt="Arreglos especiales y cajas florales – Florería Tulipán"
                 fill
                 priority
                 className="object-cover"
@@ -128,7 +128,7 @@ export default function Hero() {
                   Nuevo
                 </p>
                 <h3 className="text-base font-bold leading-snug">
-                  Mas que solo rosas
+                  Mucho más que rosas
                 </h3>
               </div>
             </div>

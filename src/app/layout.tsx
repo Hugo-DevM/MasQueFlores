@@ -4,21 +4,21 @@ import "./globals.css";
 import { CartProvider } from "@/context/CartContext";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://masqueflores.mx"),
+  metadataBase: new URL("https://floreriatulipan.mx"),
   title: {
-    default: "Mas que Flores | Florería en Puerto Vallarta",
-    template: "%s | Mas que Flores",
+    default: "Florería Tulipán | Florería en Puerto Vallarta",
+    template: "%s | Florería Tulipán",
   },
   description:
     "Arreglos florales únicos diseñados con amor en Puerto Vallarta. Ramos, bouquets y pedidos especiales. Atención de lunes a domingo.",
   keywords:
-    "florería, flores, ramos florales, arreglos florales, bouquet, rosas, Puerto Vallarta, Jalisco, flores a domicilio, Mas que Flores, florería Puerto Vallarta",
+    "florería, flores, ramos florales, arreglos florales, bouquet, rosas, Puerto Vallarta, Jalisco, flores a domicilio, Florería Tulipán, florería Puerto Vallarta",
   openGraph: {
     type: "website",
     locale: "es_MX",
-    url: "https://masqueflores.mx",
-    siteName: "Mas que Flores",
-    title: "Mas que Flores | Florería en Puerto Vallarta",
+    url: "https://floreriatulipan.mx",
+    siteName: "Florería Tulipán",
+    title: "Florería Tulipán | Florería en Puerto Vallarta",
     description:
       "Arreglos florales únicos diseñados con amor en Puerto Vallarta. Envío a domicilio, atención de lunes a domingo.",
     images: [
@@ -26,19 +26,19 @@ export const metadata: Metadata = {
         url: "/Logo.jpg",
         width: 1200,
         height: 630,
-        alt: "Mas que Flores – Arreglos Florales Puerto Vallarta",
+        alt: "Florería Tulipán – Arreglos Florales Puerto Vallarta",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mas que Flores | Florería en Puerto Vallarta",
+    title: "Florería Tulipán | Florería en Puerto Vallarta",
     description:
       "Arreglos florales únicos diseñados con amor en Puerto Vallarta.",
     images: ["/Logo.jpg"],
   },
   robots: { index: true, follow: true },
-  alternates: { canonical: "https://masqueflores.mx" },
+  alternates: { canonical: "https://floreriatulipan.mx" },
 };
 
 export default function RootLayout({

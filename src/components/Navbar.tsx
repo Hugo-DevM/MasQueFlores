@@ -79,8 +79,8 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" onClick={(e) => handleClick(e, "/")} className="flex items-center gap-2">
             <span className="font-display text-2xl font-semibold">
-              <span className="text-gray-900">Mas que</span>
-              <span className="text-primary-500"> Flores</span>
+              <span className="text-gray-900">Florería</span>
+              <span className="text-primary-500"> Tulipán</span>
             </span>
           </Link>
 

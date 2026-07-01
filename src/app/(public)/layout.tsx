@@ -5,9 +5,9 @@ import CartDrawer from "@/components/CartDrawer";
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Florist",
-  name: "Mas que Flores",
-  url: "https://masqueflores.mx",
-  image: "https://masqueflores.mx/logoLayout.webp",
+  name: "Florería Tulipán",
+  url: "https://floreriatulipan.mx",
+  image: "https://floreriatulipan.mx/logoLayout.webp",
   description:
     "Florería en Puerto Vallarta. Arreglos florales únicos, ramos y bouquets diseñados con amor. Pedidos especiales y envío a domicilio.",
   areaServed: {

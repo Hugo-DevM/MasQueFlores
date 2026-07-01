@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/dashboard/", "/api/"],
       },
     ],
-    sitemap: "https://masqueflores.mx/sitemap.xml",
+    sitemap: "https://floreriatulipan.mx/sitemap.xml",
   };
 }
