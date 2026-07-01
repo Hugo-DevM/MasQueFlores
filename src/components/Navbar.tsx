@@ -75,7 +75,7 @@ export default function Navbar() {
       }`}
     >
       <div className="container mx-auto px-4">
-        <div className="flex items-center justify-between h-16">
+        <div className="relative flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" onClick={(e) => handleClick(e, "/")} className="flex items-center gap-2">
             <span className="font-display text-2xl font-semibold">
@@ -85,7 +85,7 @@ export default function Navbar() {
           </Link>
 
           {/* Desktop nav */}
-          <nav className="hidden md:flex items-center gap-8">
+          <nav className="hidden md:flex absolute left-1/2 -translate-x-1/2 items-center gap-8">
             {links.map((l) => (
               <Link
                 key={l.href}
