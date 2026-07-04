@@ -974,6 +974,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-07-04T15:54:12.540Z"
+    },
+    {
+      "id": "prod_1783180686049",
+      "name": "Ramo declarativo",
+      "description": "Ramo de 60 rosas rojas blancas y rositas",
+      "price": 1700,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1783180723/masqueflores/productos/siempre_disponible/prod_1783180686049/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1783180686049/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-07-04T16:00:15.288Z"
     }
   ]
 }
