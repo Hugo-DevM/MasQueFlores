@@ -961,6 +961,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-06-30T20:30:08.642Z"
+    },
+    {
+      "id": "prod_1783180367855",
+      "name": "Ramo de 50 rosas rojas",
+      "description": "Ramo se feliz cumpleaños 25 rositas y 25 rosas blancas",
+      "price": 1200,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1783180382/masqueflores/productos/siempre_disponible/prod_1783180367855/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1783180367855/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-07-04T15:54:12.540Z"
     }
   ]
 }
