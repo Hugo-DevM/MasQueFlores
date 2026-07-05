@@ -987,6 +987,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-07-04T16:00:15.288Z"
+    },
+    {
+      "id": "prod_1783225156362",
+      "name": "Ramo grande rojo",
+      "description": "Un ramo de 100 rosas rojas con exofolia alrededor",
+      "price": 2500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1783225170/masqueflores/productos/siempre_disponible/prod_1783225156362/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1783225156362/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-07-05T04:20:21.745Z"
     }
   ]
 }
