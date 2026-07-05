@@ -1000,6 +1000,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-07-05T04:20:21.745Z"
+    },
+    {
+      "id": "prod_1783225349159",
+      "name": "Ramo de gradación rojo",
+      "description": "Ramo echo con 3 docena de rosas rojas más un birrete y listón",
+      "price": 1100,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1783225377/masqueflores/productos/siempre_disponible/prod_1783225349159/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1783225349159/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-07-05T04:24:07.413Z"
     }
   ]
 }
