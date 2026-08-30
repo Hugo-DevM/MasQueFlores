@@ -1039,6 +1039,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-07-05T04:30:22.751Z"
+    },
+    {
+      "id": "prod_1788131371755",
+      "name": "Remo de 24 rosas 12 blancas y 12 rojas",
+      "description": "Ramo de 24 rosas dos colores envuelto en papel lila",
+      "price": 600,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788131394/masqueflores/productos/siempre_disponible/prod_1788131371755/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788131371755/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-08-30T23:10:57.309Z"
     }
   ]
 }
