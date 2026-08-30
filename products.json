@@ -1052,6 +1052,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-08-30T23:10:57.309Z"
+    },
+    {
+      "id": "prod_1788131477380",
+      "name": "Ramo de 24 rosas rositas",
+      "description": "Ramo de rosas rositas más una orquídea",
+      "price": 850,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788131496/masqueflores/productos/siempre_disponible/prod_1788131477380/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788131477380/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-08-30T23:12:13.052Z"
     }
   ]
 }
