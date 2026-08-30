@@ -1078,6 +1078,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-08-30T23:15:23.217Z"
+    },
+    {
+      "id": "prod_1788131741666",
+      "name": "Ramo de 12 rosas y 3 gerveras",
+      "description": "Gerveras azul y rosas amarillas",
+      "price": 500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788131766/masqueflores/productos/siempre_disponible/prod_1788131741666/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788131741666/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-08-30T23:16:52.914Z"
     }
   ]
 }
