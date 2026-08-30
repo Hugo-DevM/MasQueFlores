@@ -1065,6 +1065,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-08-30T23:12:13.052Z"
+    },
+    {
+      "id": "prod_1788131653476",
+      "name": "Ramo de 12 gerveras mixto",
+      "description": "Ramo de 12 gerveras de colores",
+      "price": 600,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788131665/masqueflores/productos/siempre_disponible/prod_1788131653476/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788131653476/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-08-30T23:15:23.217Z"
     }
   ]
 }
