@@ -1104,6 +1104,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-08-30T23:19:06.170Z"
+    },
+    {
+      "id": "prod_1788290729400",
+      "name": "Ramo de colores pasteles",
+      "description": "Un ramo echo con flores blancas y flores rositas",
+      "price": 1000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788290757/masqueflores/productos/siempre_disponible/prod_1788290729400/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788290729400/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-01T19:26:42.788Z"
     }
   ]
 }
