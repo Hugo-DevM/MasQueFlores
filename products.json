@@ -1195,6 +1195,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T04:37:42.465Z"
+    },
+    {
+      "id": "prod_1788496669778",
+      "name": "Ramo de gerveras rosas",
+      "description": "6 gerveras rositas envueltas con papel blanco",
+      "price": 350,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788496690/masqueflores/productos/siempre_disponible/prod_1788496669778/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788496669778/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T04:38:59.141Z"
     }
   ]
 }
