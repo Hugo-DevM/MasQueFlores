@@ -1156,6 +1156,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T04:29:52.065Z"
+    },
+    {
+      "id": "prod_1788496270818",
+      "name": "12 rosas y 1 girasol",
+      "description": "12 rosas rojas y un girasol envuelto en papel negro",
+      "price": 450,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788496286/masqueflores/productos/siempre_disponible/prod_1788496270818/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788496270818/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T04:32:48.637Z"
     }
   ]
 }
