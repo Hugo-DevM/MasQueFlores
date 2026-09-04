@@ -1169,6 +1169,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T04:32:48.637Z"
+    },
+    {
+      "id": "prod_1788496396668",
+      "name": "Ramo de gerveras",
+      "description": "6 gerveras con margaritas de colores envuelto en papel rosita",
+      "price": 350,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788496425/masqueflores/productos/siempre_disponible/prod_1788496396668/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788496396668/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T04:35:02.736Z"
     }
   ]
 }
