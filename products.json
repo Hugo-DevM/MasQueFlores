@@ -1221,6 +1221,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T04:40:23.711Z"
+    },
+    {
+      "id": "prod_1788497024267",
+      "name": "24 rosas y mariposas",
+      "description": "Ramo de 24 rosas rojas y follaje nube y 2 mariposas",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788497039/masqueflores/productos/siempre_disponible/prod_1788497024267/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788497024267/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T04:44:39.956Z"
     }
   ]
 }
