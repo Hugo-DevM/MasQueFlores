@@ -1312,6 +1312,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T05:05:22.060Z"
+    },
+    {
+      "id": "prod_1788498618704",
+      "name": "Ramo de quieres ser mi novia",
+      "description": "24 rosas mas una orquídea",
+      "price": 800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788498643/masqueflores/productos/siempre_disponible/prod_1788498618704/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788498618704/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T05:11:09.717Z"
     }
   ]
 }
