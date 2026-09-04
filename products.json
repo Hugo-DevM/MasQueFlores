@@ -1182,6 +1182,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T04:35:02.736Z"
+    },
+    {
+      "id": "prod_1788496595980",
+      "name": "6 gerveras amarillas",
+      "description": "Ramo de 6 gerveras con colores primaverales",
+      "price": 350,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788496614/masqueflores/productos/siempre_disponible/prod_1788496595980/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788496595980/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T04:37:42.465Z"
     }
   ]
 }
