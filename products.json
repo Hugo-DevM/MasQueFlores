@@ -1260,6 +1260,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T04:47:25.953Z"
+    },
+    {
+      "id": "prod_1788497287014",
+      "name": "70 rosas blancas y lilas",
+      "description": "",
+      "price": 1850,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788497309/masqueflores/productos/siempre_disponible/prod_1788497287014/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788497287014/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T04:49:17.608Z"
     }
   ]
 }
