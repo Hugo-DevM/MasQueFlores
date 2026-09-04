@@ -1247,6 +1247,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T04:46:15.490Z"
+    },
+    {
+      "id": "prod_1788497181653",
+      "name": "Cubetita roja",
+      "description": "Un arreglo en forma circular con colores rojos",
+      "price": 1300,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788497200/masqueflores/productos/siempre_disponible/prod_1788497181653/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788497181653/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T04:47:25.953Z"
     }
   ]
 }
