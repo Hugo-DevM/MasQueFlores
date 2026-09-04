@@ -1234,6 +1234,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T04:44:39.956Z"
+    },
+    {
+      "id": "prod_1788497084213",
+      "name": "Feliz cumpleaños",
+      "description": "Ramo de feliz cumpleaños con rosas rojas y diamantes",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788497135/masqueflores/productos/siempre_disponible/prod_1788497084213/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788497084213/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T04:46:15.490Z"
     }
   ]
 }
