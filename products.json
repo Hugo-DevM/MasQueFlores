@@ -1208,6 +1208,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T04:38:59.141Z"
+    },
+    {
+      "id": "prod_1788496751359",
+      "name": "Ramo en tonos balncos y rositas",
+      "description": "Un ramo formado a partir de los colores pasteles y blancos",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788496782/masqueflores/productos/siempre_disponible/prod_1788496751359/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788496751359/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T04:40:23.711Z"
     }
   ]
 }
