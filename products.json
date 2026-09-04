@@ -1338,6 +1338,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T05:14:01.940Z"
+    },
+    {
+      "id": "prod_1788498961531",
+      "name": "Un arreglo en tonos pasteles",
+      "description": "Un arreglo en tonos pasteles base una cubetita",
+      "price": 2500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788498988/masqueflores/productos/siempre_disponible/prod_1788498961531/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788498961531/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T05:17:15.846Z"
     }
   ]
 }
