@@ -1286,6 +1286,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T04:52:51.114Z"
+    },
+    {
+      "id": "prod_1788497575285",
+      "name": "Ramo de declaración",
+      "description": "Ramo de 30 rosas rojas con el listón",
+      "price": 800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788497594/masqueflores/productos/siempre_disponible/prod_1788497575285/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788497575285/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-04T04:54:09.435Z"
     }
   ]
 }
