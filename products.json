@@ -1494,6 +1494,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-06T05:50:41.732Z"
+    },
+    {
+      "id": "prod_1788673917844",
+      "name": "Ramo de tulipanes",
+      "description": "10 tulipanes",
+      "price": 950,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788673957/masqueflores/productos/siempre_disponible/prod_1788673917844/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788673917844/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-06T05:52:59.214Z"
     }
   ]
 }
