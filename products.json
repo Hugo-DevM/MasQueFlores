@@ -1403,6 +1403,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-06T05:32:46.636Z"
+    },
+    {
+      "id": "prod_1788672777506",
+      "name": "Ramo de 50 rosas",
+      "description": "Ramo de 50 rosas 25 rositas y 25 blancas",
+      "price": 1200,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788672791/masqueflores/productos/siempre_disponible/prod_1788672777506/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788672777506/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-06T05:33:58.924Z"
     }
   ]
 }
