@@ -1377,6 +1377,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-04T05:33:32.052Z"
+    },
+    {
+      "id": "prod_1788672613759",
+      "name": "Arreglo en corazón rositas",
+      "description": "Un arreglo que lleva 30 rosas rositas y una orquídea blanca",
+      "price": 1100,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788672652/masqueflores/productos/siempre_disponible/prod_1788672613759/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788672613759/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-06T05:31:49.874Z"
     }
   ]
 }
