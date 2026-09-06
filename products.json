@@ -1429,6 +1429,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-06T05:36:20.532Z"
+    },
+    {
+      "id": "prod_1788672986197",
+      "name": "Ramo de rosas y gerveras",
+      "description": "Un ramo con 24 rosas y 3 gerveras color pastel",
+      "price": 800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788673046/masqueflores/productos/siempre_disponible/prod_1788672986197/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788672986197/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-06T05:38:05.132Z"
     }
   ]
 }
