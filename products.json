@@ -1507,6 +1507,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-06T05:52:59.214Z"
+    },
+    {
+      "id": "prod_1788673982142",
+      "name": "Ramo negro",
+      "description": "Ramo negro con rojo",
+      "price": 850,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788673997/masqueflores/productos/siempre_disponible/prod_1788673982142/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788673982142/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-06T05:53:37.406Z"
     }
   ]
 }
