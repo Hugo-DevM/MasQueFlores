@@ -1481,6 +1481,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-06T05:49:01.283Z"
+    },
+    {
+      "id": "prod_1788673744796",
+      "name": "Ramo de 60 rosas",
+      "description": "60 rosas rojas envuelto en papel blanco",
+      "price": 1500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788673768/masqueflores/productos/siempre_disponible/prod_1788673744796/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788673744796/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-06T05:50:41.732Z"
     }
   ]
 }
