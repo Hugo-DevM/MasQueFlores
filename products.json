@@ -1390,6 +1390,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-06T05:31:49.874Z"
+    },
+    {
+      "id": "prod_1788672715022",
+      "name": "Ramo de 100 rosas",
+      "description": "Ramo de 100 rosas envuelto con papel negro",
+      "price": 2500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788672736/masqueflores/productos/siempre_disponible/prod_1788672715022/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788672715022/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-06T05:32:46.636Z"
     }
   ]
 }
