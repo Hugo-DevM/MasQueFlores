@@ -1520,6 +1520,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-06T05:53:37.406Z"
+    },
+    {
+      "id": "prod_1788674066183",
+      "name": "Ramo de 50 rosas y 10 gerveras",
+      "description": "50 rosas y 10 gerveras de colores",
+      "price": 1700,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788674278/masqueflores/productos/siempre_disponible/prod_1788674066183/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788674066183/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-06T05:59:02.371Z"
     }
   ]
 }
