@@ -1431,19 +1431,6 @@
       "createdAt": "2026-09-06T05:38:05.132Z"
     },
     {
-      "id": "prod_1788673121698",
-      "name": "Arreglo en cubetita grande",
-      "description": "Un arreglo grande con una cubetita",
-      "price": 2500,
-      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788673171/masqueflores/productos/siempre_disponible/prod_1788673121698/imagen.jpg",
-      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788673121698/imagen",
-      "category": "sobre_pedido",
-      "badge": "",
-      "featured": false,
-      "visible": true,
-      "createdAt": "2026-09-06T05:40:05.362Z"
-    },
-    {
       "id": "prod_1788673225670",
       "name": "Ramo de 100 rosas",
       "description": "Ramo de 100 rosas mas una coronita grande liston y mariposas",
