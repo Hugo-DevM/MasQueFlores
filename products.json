@@ -1650,6 +1650,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:52:05.861Z"
+    },
+    {
+      "id": "prod_1788749577306",
+      "name": "Arreglo de colores pasteles",
+      "description": "Arreglo con rosas pasteles y toque morados",
+      "price": 2300,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788749589/masqueflores/productos/siempre_disponible/prod_1788749577306/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788749577306/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:53:51.154Z"
     }
   ]
 }
