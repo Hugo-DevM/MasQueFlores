@@ -1702,6 +1702,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:58:34.869Z"
+    },
+    {
+      "id": "prod_1788749918179",
+      "name": "Ramos de flores coloridas",
+      "description": "Rosas y gerveras flores en color pastel y rosas",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788750045/masqueflores/productos/siempre_disponible/prod_1788749918179/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788749918179/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T03:01:47.243Z"
     }
   ]
 }
