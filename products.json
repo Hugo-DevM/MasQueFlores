@@ -1728,6 +1728,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T03:03:14.478Z"
+    },
+    {
+      "id": "prod_1788750212786",
+      "name": "Ramo de flores pasteles",
+      "description": "Ramo de flores mixta con liciantos rosas y gerveras",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788750263/masqueflores/productos/siempre_disponible/prod_1788750212786/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788750212786/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T03:05:04.311Z"
     }
   ]
 }
