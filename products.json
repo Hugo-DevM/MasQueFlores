@@ -1572,6 +1572,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:17:10.317Z"
+    },
+    {
+      "id": "prod_1788747457035",
+      "name": "Cubetita de tulipán",
+      "description": "20 tulipanes y 50 rosas rojas en una cubetita blanca",
+      "price": 3000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788747481/masqueflores/productos/siempre_disponible/prod_1788747457035/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788747457035/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:21:45.928Z"
     }
   ]
 }
