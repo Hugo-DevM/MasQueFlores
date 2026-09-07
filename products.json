@@ -1611,6 +1611,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:27:23.245Z"
+    },
+    {
+      "id": "prod_1788748081279",
+      "name": "Corazón mágico",
+      "description": "Ramo de rosas en forma de corazón rojos con 50 rosas rojas y flores blancas alrededor",
+      "price": 1400,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788748107/masqueflores/productos/siempre_disponible/prod_1788748081279/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788748081279/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:29:34.707Z"
     }
   ]
 }
