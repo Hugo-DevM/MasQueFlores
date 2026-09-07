@@ -1806,6 +1806,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T03:19:04.710Z"
+    },
+    {
+      "id": "prod_1788751148081",
+      "name": "Ramo de diamantes",
+      "description": "Ramo con 75 rosas rojas",
+      "price": 2000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788751211/masqueflores/productos/siempre_disponible/prod_1788751148081/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788751148081/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T03:20:53.039Z"
     }
   ]
 }
