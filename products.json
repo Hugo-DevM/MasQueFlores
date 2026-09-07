@@ -1715,6 +1715,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T03:01:47.243Z"
+    },
+    {
+      "id": "prod_1788750111104",
+      "name": "Rosas rojas y Lilis",
+      "description": "12 Ramo de rosas rojas y 2 Lilis blancas envueltas con papel negro",
+      "price": 550,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788750142/masqueflores/productos/siempre_disponible/prod_1788750111104/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788750111104/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T03:03:14.478Z"
     }
   ]
 }
