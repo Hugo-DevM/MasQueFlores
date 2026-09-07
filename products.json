@@ -1585,6 +1585,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:21:45.928Z"
+    },
+    {
+      "id": "prod_1788747716850",
+      "name": "Ramo de flores surtidas",
+      "description": "Ramo de flores surtidas en tonos pasteles con una gervera en medio",
+      "price": 350,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788747766/masqueflores/productos/siempre_disponible/prod_1788747716850/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788747716850/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:23:44.866Z"
     }
   ]
 }
