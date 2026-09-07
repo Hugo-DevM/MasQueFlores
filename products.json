@@ -1418,19 +1418,6 @@
       "createdAt": "2026-09-06T05:33:58.924Z"
     },
     {
-      "id": "prod_1788672889861",
-      "name": "Cubetita roja",
-      "description": "Un arreglo de flores rojas",
-      "price": 1100,
-      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788672934/masqueflores/productos/siempre_disponible/prod_1788672889861/imagen.jpg",
-      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788672889861/imagen",
-      "category": "sobre_pedido",
-      "badge": "",
-      "featured": false,
-      "visible": false,
-      "createdAt": "2026-09-06T05:36:20.532Z"
-    },
-    {
       "id": "prod_1788672986197",
       "name": "Ramo de rosas y gerveras",
       "description": "Un ramo con 24 rosas y 3 gerveras color pastel",
