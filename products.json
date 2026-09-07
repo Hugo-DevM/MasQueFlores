@@ -1676,6 +1676,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:55:16.621Z"
+    },
+    {
+      "id": "prod_1788749723214",
+      "name": "Arreglo con colores pasteles",
+      "description": "Arreglo con Lilis y rosas y flores blancas",
+      "price": 2400,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788749747/masqueflores/productos/siempre_disponible/prod_1788749723214/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788749723214/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:56:28.938Z"
     }
   ]
 }
