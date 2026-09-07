@@ -1028,19 +1028,6 @@
       "createdAt": "2026-07-05T04:28:45.335Z"
     },
     {
-      "id": "prod_1783225752671",
-      "name": "Buchonsito",
-      "description": "30 rosas rojas envuelto con papel negro y gispsofili",
-      "price": 850,
-      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1783225764/masqueflores/productos/siempre_disponible/prod_1783225752671/imagen.jpg",
-      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1783225752671/imagen",
-      "category": "siempre_disponible",
-      "badge": "",
-      "featured": false,
-      "visible": true,
-      "createdAt": "2026-07-05T04:30:22.751Z"
-    },
-    {
       "id": "prod_1788131371755",
       "name": "Remo de 24 rosas 12 blancas y 12 rojas",
       "description": "Ramo de 24 rosas dos colores envuelto en papel lila",
