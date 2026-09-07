@@ -1741,6 +1741,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T03:05:04.311Z"
+    },
+    {
+      "id": "prod_1788750601995",
+      "name": "Primavera de gerveras",
+      "description": "Ramo de 12 gerveras coloridas",
+      "price": 550,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788750630/masqueflores/productos/siempre_disponible/prod_1788750601995/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788750601995/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T03:11:00.110Z"
     }
   ]
 }
