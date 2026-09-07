@@ -1767,6 +1767,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T03:13:39.208Z"
+    },
+    {
+      "id": "prod_1788750848196",
+      "name": "Ramo de rosas con diamantes",
+      "description": "Ramo de 24 rosas con diamantes más un listón",
+      "price": 700,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788750872/masqueflores/productos/siempre_disponible/prod_1788750848196/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788750848196/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T03:15:05.395Z"
     }
   ]
 }
