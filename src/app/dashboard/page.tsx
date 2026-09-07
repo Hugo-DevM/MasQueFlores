@@ -74,8 +74,8 @@ export default function DashboardPage() {
                 className="text-lg font-bold"
                 
               >
-                <span className="text-gray-900">Mas que</span>
-                <span className="text-primary-500"> Flores</span>
+                <span className="text-gray-900">Floreria</span>
+                <span className="text-primary-500"> Tulipan</span>
               </span>
             </Link>
             <span className="hidden sm:block text-gray-300">|</span>

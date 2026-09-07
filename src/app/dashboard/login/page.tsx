@@ -45,8 +45,8 @@ export default function LoginPage() {
               className="text-3xl font-bold"
               
             >
-              <span className="text-gray-900">Mas que</span>
-              <span className="text-primary-500"> Flores</span>
+              <span className="text-gray-900">Floreria</span>
+              <span className="text-primary-500"> Tulipan</span>
             </span>
           </Link>
           <p className="text-gray-500 text-sm mt-2">Panel de Administración</p>

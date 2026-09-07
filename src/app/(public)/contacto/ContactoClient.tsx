@@ -51,7 +51,7 @@ export default function ContactoClient() {
                 title: "¿Qué ofrecemos?",
                 lines: [
                   "Arreglos siempre disponibles",
-                  "Flores de temporada",
+                  "Arreglos especiales para el 14 de Febrero",
                   "Pedidos especiales con previo aviso",
                 ],
               },
@@ -134,7 +134,7 @@ export default function ContactoClient() {
             Regálale a esa persona especial un detalle hermoso
           </p>
           <p className="text-gold-500 text-sm mt-4 font-medium tracking-widest uppercase">
-            Mas que Flores · Puerto Vallarta
+            Floreria Tulipan · Puerto Vallarta
           </p>
         </div>
       </div>

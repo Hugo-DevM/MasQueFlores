@@ -86,7 +86,7 @@ export default function Footer() {
                   href: "/tienda?cat=siempre_disponible",
                   label: "Siempre Disponibles 🌹",
                 },
-                { href: "/tienda?cat=temporada", label: "Por Temporada 🌸" },
+                { href: "/tienda?cat=san_valentin", label: "Especial 14 de Febrero 🌸" },
                 { href: "/tienda?cat=sobre_pedido", label: "Sobre Pedido ✨" },
                 { href: "/tienda", label: "Ver todo el catálogo" },
               ].map((l) => (

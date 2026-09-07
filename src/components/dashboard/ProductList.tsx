@@ -15,7 +15,7 @@ interface Props {
 const FILTERS: { key: Category | "all"; label: string }[] = [
   { key: "all",               label: "Todos" },
   { key: "siempre_disponible", label: "Siempre Disponibles" },
-  { key: "temporada",          label: "Por Temporada" },
+  { key: "san_valentin",          label: "Especial 14 de Febrero" },
   { key: "sobre_pedido",       label: "Sobre Pedido" },
 ];
 

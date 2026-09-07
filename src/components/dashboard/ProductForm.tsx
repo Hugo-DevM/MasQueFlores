@@ -219,7 +219,7 @@ export default function ProductForm({ product, onClose, onSaved }: Props) {
                 <option value="siempre_disponible">
                   {CATEGORY_LABELS.siempre_disponible}
                 </option>
-                <option value="temporada">{CATEGORY_LABELS.temporada}</option>
+                <option value="san_valentin">{CATEGORY_LABELS.san_valentin}</option>
                 <option value="sobre_pedido">
                   {CATEGORY_LABELS.sobre_pedido}
                 </option>

@@ -1,21 +1,25 @@
-export type Category = "siempre_disponible" | "temporada" | "sobre_pedido";
+export type Category = "siempre_disponible" | "sobre_pedido" | "san_valentin";
 
 export const CATEGORY_LABELS: Record<Category, string> = {
   siempre_disponible: "Siempre Disponibles",
-  temporada: "Por Temporada",
+  // temporada: "Por Temporada",
+  san_valentin: "Especial 14 de Febrero",
   sobre_pedido: "Sobre Pedido",
+  
 };
 
 export const CATEGORY_DESCRIPTIONS: Record<Category, string> = {
   siempre_disponible: "Flores que encuentras todo el año",
-  temporada: "Disponibles según la temporada",
+  // temporada: "Disponibles según la temporada",
   sobre_pedido: "Arreglos especiales con previo aviso",
+  san_valentin: "Arreglos y Ramos para el 14 de Febrero",
 };
 
 export const CATEGORY_ICONS: Record<Category, string> = {
   siempre_disponible: "🌹",
-  temporada: "🌸",
+  // temporada: "🌸",
   sobre_pedido: "✨",
+  san_valentin: "💖",
 };
 
 export interface Product {
