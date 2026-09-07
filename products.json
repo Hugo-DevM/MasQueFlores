@@ -1533,6 +1533,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-06T05:59:02.371Z"
+    },
+    {
+      "id": "prod_1788746557005",
+      "name": "Ramo de flores mixtas",
+      "description": "Ramos de flores mistas con envoltura exótica",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788746723/masqueflores/productos/siempre_disponible/prod_1788746557005/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788746557005/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:06:03.475Z"
     }
   ]
 }
