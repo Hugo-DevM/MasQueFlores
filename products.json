@@ -1754,6 +1754,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T03:11:00.110Z"
+    },
+    {
+      "id": "prod_1788750731653",
+      "name": "Ramo de gerveras rositas",
+      "description": "Ramo de gerveras con flores y rosas",
+      "price": 750,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788750768/masqueflores/productos/siempre_disponible/prod_1788750731653/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788750731653/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T03:13:39.208Z"
     }
   ]
 }
