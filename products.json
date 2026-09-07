@@ -1793,6 +1793,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T03:16:44.096Z"
+    },
+    {
+      "id": "prod_1788751031821",
+      "name": "Una orquidea Rosita",
+      "description": "Ramo de 24 rosas más un listón y una orquídea",
+      "price": 750,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788751082/masqueflores/productos/siempre_disponible/prod_1788751031821/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788751031821/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T03:19:04.710Z"
     }
   ]
 }
