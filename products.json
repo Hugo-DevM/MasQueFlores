@@ -1559,6 +1559,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:08:07.593Z"
+    },
+    {
+      "id": "prod_1788746943146",
+      "name": "Arreglo de esfera",
+      "description": "Arreglo de espera con tonos pasteles con rosas y flores míseras",
+      "price": 2800,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788747392/masqueflores/productos/siempre_disponible/prod_1788746943146/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788746943146/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:17:10.317Z"
     }
   ]
 }
