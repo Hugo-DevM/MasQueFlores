@@ -1780,6 +1780,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T03:15:05.395Z"
+    },
+    {
+      "id": "prod_1788750908531",
+      "name": "Ramo de rosas rojas",
+      "description": "Ramo de 24 rosas más diamantes y una coronita",
+      "price": 850,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788750948/masqueflores/productos/siempre_disponible/prod_1788750908531/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788750908531/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T03:16:44.096Z"
     }
   ]
 }
