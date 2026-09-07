@@ -1598,6 +1598,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:23:44.866Z"
+    },
+    {
+      "id": "prod_1788747844412",
+      "name": "Ramo lila",
+      "description": "Ramo mixto con doble envoltura para regalo de mamá",
+      "price": 350,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788747971/masqueflores/productos/siempre_disponible/prod_1788747844412/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788747844412/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:27:23.245Z"
     }
   ]
 }
