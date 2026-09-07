@@ -1637,6 +1637,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:36:06.145Z"
+    },
+    {
+      "id": "prod_1788749461343",
+      "name": "Ramo de rosas azules",
+      "description": "75 rosas azules envueltos en papel negro",
+      "price": 2200,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788749486/masqueflores/productos/siempre_disponible/prod_1788749461343/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788749461343/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:52:05.861Z"
     }
   ]
 }
