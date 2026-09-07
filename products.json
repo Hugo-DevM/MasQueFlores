@@ -1637,6 +1637,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:31:21.575Z"
+    },
+    {
+      "id": "prod_1788748324605",
+      "name": "Mariposas y rosas",
+      "description": "24 rosas rojas con decoración",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788748341/masqueflores/productos/siempre_disponible/prod_1788748324605/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788748324605/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:33:22.116Z"
     }
   ]
 }
