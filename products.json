@@ -1689,6 +1689,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:56:28.938Z"
+    },
+    {
+      "id": "prod_1788749819182",
+      "name": "50 rosas",
+      "description": "Ramo de 50 rosas envuelto con papel negro y follaje alrededor",
+      "price": 1200,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788749862/masqueflores/productos/siempre_disponible/prod_1788749819182/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788749819182/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:58:34.869Z"
     }
   ]
 }
