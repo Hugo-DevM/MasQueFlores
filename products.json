@@ -1624,6 +1624,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:29:34.707Z"
+    },
+    {
+      "id": "prod_1788748183099",
+      "name": "Cubetita de flores",
+      "description": "Cubetita de flores en tonos pasteles con rosas y flores blancas",
+      "price": 2500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788748225/masqueflores/productos/siempre_disponible/prod_1788748183099/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788748183099/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:31:21.575Z"
     }
   ]
 }
