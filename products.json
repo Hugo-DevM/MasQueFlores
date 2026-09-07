@@ -1663,6 +1663,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:34:32.234Z"
+    },
+    {
+      "id": "prod_1788748489589",
+      "name": "Arreglo en cubetita",
+      "description": "Arreglo en base con flores agrupadas",
+      "price": 3500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788748506/masqueflores/productos/siempre_disponible/prod_1788748489589/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788748489589/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:36:06.145Z"
     }
   ]
 }
