@@ -1663,6 +1663,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T02:53:51.154Z"
+    },
+    {
+      "id": "prod_1788749635379",
+      "name": "Arreglo con lilis y rosas",
+      "description": "Arreglo grande con Lilis y rosas con toques verdes",
+      "price": 2700,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1788749653/masqueflores/productos/siempre_disponible/prod_1788749635379/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1788749635379/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-07T02:55:16.621Z"
     }
   ]
 }
