@@ -1819,6 +1819,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-24T18:59:14.376Z"
+    },
+    {
+      "id": "prod_1790276379361",
+      "name": "Ramo con coronita",
+      "description": "50 rosas rojas con una coronita y un listón",
+      "price": 1500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1790276436/masqueflores/productos/siempre_disponible/prod_1790276379361/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1790276379361/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-24T19:01:12.701Z"
     }
   ]
 }
