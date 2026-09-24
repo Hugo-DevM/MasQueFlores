@@ -1793,6 +1793,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-07T03:20:53.039Z"
+    },
+    {
+      "id": "prod_1790276208938",
+      "name": "Cajita de colores morados con tonos rositas",
+      "description": "Cajita redonda con colores pasteles con toques morados",
+      "price": 700,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1790276219/masqueflores/productos/siempre_disponible/prod_1790276208938/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1790276208938/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-24T18:57:55.564Z"
     }
   ]
 }
