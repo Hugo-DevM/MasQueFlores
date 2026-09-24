@@ -1858,6 +1858,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-24T19:06:57.134Z"
+    },
+    {
+      "id": "prod_1790276821261",
+      "name": "Ramo mixto de flores surtiditas",
+      "description": "Ramo redondo con flores surtiditas colores pasteles y blancas",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1790276855/masqueflores/productos/siempre_disponible/prod_1790276821261/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1790276821261/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-24T19:08:43.168Z"
     }
   ]
 }
