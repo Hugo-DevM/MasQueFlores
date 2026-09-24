@@ -1871,6 +1871,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-24T19:08:43.168Z"
+    },
+    {
+      "id": "prod_1790277008263",
+      "name": "Corazón 24 rosas",
+      "description": "ramo de 24 rosas rojas en forma de corazón",
+      "price": 850,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1790277082/masqueflores/productos/siempre_disponible/prod_1790277008263/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1790277008263/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-24T19:11:54.962Z"
     }
   ]
 }
