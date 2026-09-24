@@ -1845,6 +1845,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-24T19:02:41.589Z"
+    },
+    {
+      "id": "prod_1790276636002",
+      "name": "Estrella tombochio",
+      "description": "Estrella tombochio con colores pasteles medidas 60 cm x 60",
+      "price": 2500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1790276660/masqueflores/productos/siempre_disponible/prod_1790276636002/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1790276636002/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-24T19:06:57.134Z"
     }
   ]
 }
