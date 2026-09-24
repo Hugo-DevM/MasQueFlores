@@ -1832,6 +1832,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-24T19:01:12.701Z"
+    },
+    {
+      "id": "prod_1790276481455",
+      "name": "Ramo noche azul",
+      "description": "Un ramo con rosas azules y flores de color negro",
+      "price": 750,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1790276501/masqueflores/productos/siempre_disponible/prod_1790276481455/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1790276481455/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-24T19:02:41.589Z"
     }
   ]
 }
