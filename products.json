@@ -1806,6 +1806,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-24T18:57:55.564Z"
+    },
+    {
+      "id": "prod_1790276279902",
+      "name": "Ramo de rosas rojas",
+      "description": "40 rosas rojas envueltas en papel negro",
+      "price": 1000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1790276292/masqueflores/productos/siempre_disponible/prod_1790276279902/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1790276279902/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-09-24T18:59:14.376Z"
     }
   ]
 }
