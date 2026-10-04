@@ -2040,6 +2040,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:40:50.452Z"
+    },
+    {
+      "id": "prod_1791092454070",
+      "name": "Ramo Lilis y rosas",
+      "description": "Un ramo con rosas y Lilis en colores pasteles",
+      "price": 1200,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791092469/masqueflores/productos/siempre_disponible/prod_1791092454070/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791092454070/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:41:44.511Z"
     }
   ]
 }
