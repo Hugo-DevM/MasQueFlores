@@ -1975,6 +1975,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:32:09.288Z"
+    },
+    {
+      "id": "prod_1791091972596",
+      "name": "Ramo para caballero",
+      "description": "Un ramo con un girasol",
+      "price": 200,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791091991/masqueflores/productos/siempre_disponible/prod_1791091972596/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791091972596/imagen",
+      "category": "siempre_disponible",
+      "badge": "Popular",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:34:06.826Z"
     }
   ]
 }
