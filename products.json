@@ -2014,6 +2014,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:36:52.659Z"
+    },
+    {
+      "id": "prod_1791092291810",
+      "name": "Ramo con colores pasteles",
+      "description": "Un ramo con gerveras y colores pasteles",
+      "price": 2000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791092309/masqueflores/productos/siempre_disponible/prod_1791092291810/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791092291810/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:39:03.611Z"
     }
   ]
 }
