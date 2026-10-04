@@ -2001,6 +2001,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:35:08.897Z"
+    },
+    {
+      "id": "prod_1791092157953",
+      "name": "Ramo de 24 rosas",
+      "description": "Ramo de 24 rosas envueltas en papel blanco",
+      "price": 600,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791092173/masqueflores/productos/siempre_disponible/prod_1791092157953/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791092157953/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:36:52.659Z"
     }
   ]
 }
