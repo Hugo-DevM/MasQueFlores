@@ -1910,6 +1910,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:26:24.074Z"
+    },
+    {
+      "id": "prod_1791091587632",
+      "name": "Un pequeño detalle",
+      "description": "Ramo con una Lilis y 6 rosas",
+      "price": 350,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791091599/masqueflores/productos/siempre_disponible/prod_1791091587632/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791091587632/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:27:14.263Z"
     }
   ]
 }
