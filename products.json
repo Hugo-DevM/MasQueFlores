@@ -2027,6 +2027,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:39:03.611Z"
+    },
+    {
+      "id": "prod_1791092375672",
+      "name": "Ramo de gerveras grandes",
+      "description": "Ramo de 26 gerveras en colores pasteles",
+      "price": 1200,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791092397/masqueflores/productos/siempre_disponible/prod_1791092375672/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791092375672/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:40:50.452Z"
     }
   ]
 }
