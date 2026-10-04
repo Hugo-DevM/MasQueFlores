@@ -1962,6 +1962,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:30:31.815Z"
+    },
+    {
+      "id": "prod_1791091890729",
+      "name": "12 rosas",
+      "description": "12 rosas más un listón",
+      "price": 380,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791091906/masqueflores/productos/siempre_disponible/prod_1791091890729/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791091890729/imagen",
+      "category": "siempre_disponible",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:32:09.288Z"
     }
   ]
 }
