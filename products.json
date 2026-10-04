@@ -1884,6 +1884,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-09-24T19:11:54.962Z"
+    },
+    {
+      "id": "prod_1791091423972",
+      "name": "Feliz cumpleaños",
+      "description": "Ramo con 40 rosas rojas de feliz cumpleaños con listón y dos mariposas",
+      "price": 1050,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791091435/masqueflores/productos/siempre_disponible/prod_1791091423972/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791091423972/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:24:58.569Z"
     }
   ]
 }
