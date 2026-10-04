@@ -1949,6 +1949,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:29:32.226Z"
+    },
+    {
+      "id": "prod_1791091777385",
+      "name": "Ramo Lilis floreciendo",
+      "description": "Ramo con rosas y Lilis con flores de colores",
+      "price": 750,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791091793/masqueflores/productos/siempre_disponible/prod_1791091777385/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791091777385/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:30:31.815Z"
     }
   ]
 }
