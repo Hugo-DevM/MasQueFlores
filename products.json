@@ -1897,6 +1897,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:24:58.569Z"
+    },
+    {
+      "id": "prod_1791091510609",
+      "name": "Noche azul",
+      "description": "Ramo de 50 rosas azules con gipsofilia alrededor",
+      "price": 1600,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791091527/masqueflores/productos/siempre_disponible/prod_1791091510609/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791091510609/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:26:24.074Z"
     }
   ]
 }
