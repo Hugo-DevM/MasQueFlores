@@ -1988,6 +1988,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:34:06.826Z"
+    },
+    {
+      "id": "prod_1791092049888",
+      "name": "Cubetita con flores rositas",
+      "description": "Una cubetita con flores color pastel",
+      "price": 1000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791092071/masqueflores/productos/siempre_disponible/prod_1791092049888/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791092049888/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:35:08.897Z"
     }
   ]
 }
