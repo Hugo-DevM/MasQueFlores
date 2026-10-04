@@ -1936,6 +1936,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:28:29.235Z"
+    },
+    {
+      "id": "prod_1791091713694",
+      "name": "Ramo lago Rocita",
+      "description": "Un ramo mixto de flores con toques verdes",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791091728/masqueflores/productos/siempre_disponible/prod_1791091713694/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791091713694/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:29:32.226Z"
     }
   ]
 }
