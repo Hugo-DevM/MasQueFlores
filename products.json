@@ -1923,6 +1923,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-04T05:27:14.263Z"
+    },
+    {
+      "id": "prod_1791091654422",
+      "name": "Ramo amarillo magico",
+      "description": "Son 10 girasoles con gispsofilia y florecitas de colores",
+      "price": 1000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1791091671/masqueflores/productos/siempre_disponible/prod_1791091654422/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1791091654422/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-04T05:28:29.235Z"
     }
   ]
 }
