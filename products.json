@@ -2131,6 +2131,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-21T23:58:37.573Z"
+    },
+    {
+      "id": "prod_1792627120857",
+      "name": "Ramo de gradación",
+      "description": "Ramo de graduación con listón personalizado",
+      "price": 1100,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1792627147/masqueflores/productos/siempre_disponible/prod_1792627120857/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1792627120857/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-21T23:59:51.682Z"
     }
   ]
 }
