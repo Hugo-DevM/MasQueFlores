@@ -2066,6 +2066,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-21T23:52:10.096Z"
+    },
+    {
+      "id": "prod_1792626751350",
+      "name": "Rosas de amor",
+      "description": "30 rosas en color rosita con un listón personalizado",
+      "price": 900,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1792626762/masqueflores/productos/siempre_disponible/prod_1792626751350/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1792626751350/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-21T23:53:35.824Z"
     }
   ]
 }
