@@ -2105,6 +2105,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-21T23:55:32.591Z"
+    },
+    {
+      "id": "prod_1792626938678",
+      "name": "Rosita y blanco",
+      "description": "Ramo de rosas blancas y rositas con dólar y exfolia",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1792626957/masqueflores/productos/siempre_disponible/prod_1792626938678/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1792626938678/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-21T23:57:23.852Z"
     }
   ]
 }
