@@ -2079,6 +2079,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-21T23:53:35.824Z"
+    },
+    {
+      "id": "prod_1792626819116",
+      "name": "Nube azul",
+      "description": "Ramo de tulipanes en color blanco",
+      "price": 1000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1792626832/masqueflores/productos/siempre_disponible/prod_1792626819116/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1792626819116/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-21T23:54:24.883Z"
     }
   ]
 }
