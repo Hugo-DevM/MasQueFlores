@@ -2170,6 +2170,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-22T00:06:26.104Z"
+    },
+    {
+      "id": "prod_1792627589483",
+      "name": "Corazón de amor",
+      "description": "Un corazón lleno de rosas rojas",
+      "price": 650,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1792627618/masqueflores/productos/siempre_disponible/prod_1792627589483/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1792627589483/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-22T00:07:27.413Z"
     }
   ]
 }
