@@ -2183,6 +2183,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-22T00:07:27.413Z"
+    },
+    {
+      "id": "prod_1792627650541",
+      "name": "Ramo de Lilis y rosas rojas",
+      "description": "Ramo de Lilis rositas y blancas",
+      "price": 750,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1792627673/masqueflores/productos/siempre_disponible/prod_1792627650541/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1792627650541/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-22T00:08:43.838Z"
     }
   ]
 }
