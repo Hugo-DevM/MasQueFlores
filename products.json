@@ -2209,6 +2209,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-22T00:14:12.202Z"
+    },
+    {
+      "id": "prod_1792628550629",
+      "name": "ramo de gerveras grande",
+      "description": "35 gerveras grandes de colores",
+      "price": 1500,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1792628592/masqueflores/productos/siempre_disponible/prod_1792628550629/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1792628550629/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-22T00:23:49.607Z"
     }
   ]
 }
