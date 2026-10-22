@@ -2196,6 +2196,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-22T00:08:43.838Z"
+    },
+    {
+      "id": "prod_1792627991280",
+      "name": "Arreglo fúnebre",
+      "description": "Un arreglo fúnebre de 300 rosas blancas",
+      "price": 9000,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1792628006/masqueflores/productos/siempre_disponible/prod_1792627991280/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1792627991280/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-22T00:14:12.202Z"
     }
   ]
 }
