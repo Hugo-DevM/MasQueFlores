@@ -2157,6 +2157,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-22T00:00:52.229Z"
+    },
+    {
+      "id": "prod_1792627270997",
+      "name": "Ramo de peluche",
+      "description": "Ramo de peluches lotso",
+      "price": 1300,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1792627538/masqueflores/productos/siempre_disponible/prod_1792627270997/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1792627270997/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-22T00:06:26.104Z"
     }
   ]
 }
