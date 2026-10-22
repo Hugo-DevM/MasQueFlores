@@ -2144,6 +2144,19 @@
       "featured": false,
       "visible": true,
       "createdAt": "2026-10-21T23:59:51.682Z"
+    },
+    {
+      "id": "prod_1792627194932",
+      "name": "Ramo de flores rosita",
+      "description": "Un ramo mixo con Lilis y flores rositas",
+      "price": 550,
+      "image": "https://res.cloudinary.com/dnpw0be36/image/upload/v1792627214/masqueflores/productos/siempre_disponible/prod_1792627194932/imagen.jpg",
+      "imagePublicId": "masqueflores/productos/siempre_disponible/prod_1792627194932/imagen",
+      "category": "sobre_pedido",
+      "badge": "",
+      "featured": false,
+      "visible": true,
+      "createdAt": "2026-10-22T00:00:52.229Z"
     }
   ]
 }
